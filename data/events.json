@@ -4,7 +4,7 @@
     "description": "Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.",
     "generatedAt": "2026-09-14T08:56:51Z",
     "source": "data/Canitrail_Masterkalender_2026_2027.csv",
-    "count": 391,
+    "count": 404,
     "categories": [
       "bike jöring",
       "canicross",
@@ -445,6 +445,28 @@
       "primarySource": "https://courses.ffslc.fr/event-fiche/906",
       "secondarySource": null,
       "origin": "semantic audit 2026-09-21"
+    },
+    {
+      "id": "2026-03-07-fbmc-belgian-championship-peer-700439",
+      "date": "2026-03-07",
+      "dateEnd": "2026-03-08",
+      "country": "Belgium",
+      "event": "FBMC Belgian Championship – Peer",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [
+        5.6
+      ],
+      "elevationM": [],
+      "dogAccess": "Canicross and Bikejöring without breed split; open and Nordic team subclasses",
+      "status": "held",
+      "notes": "Official organiser invitation. Peer replaces Lommel because the previous stake-out was unavailable. Main course 5.6 km; no breed split in Canicross/Bikejöring; open and Nordic team subclasses.",
+      "primarySource": "https://fbmc.be/algemene-info-wedstrijd",
+      "secondarySource": null,
+      "origin": "European federation six-sweep review 2026-10-16"
     },
     {
       "id": "2026-03-07-mountainman-wintertrail-reit-im-winkl-b351c4",
@@ -3641,6 +3663,25 @@
       "origin": "semantic audit 2026-09-21"
     },
     {
+      "id": "2026-10-24-leskros-hrade-k-1cc52a",
+      "date": "2026-10-24",
+      "dateEnd": null,
+      "country": "Czech Republic",
+      "event": "Leskros Hradečák",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "official ČASS event classes; open/Nordic class conditions apply",
+      "status": "source-confirmed 2026",
+      "notes": "Organiser: Klub Rozběháme Česko. Kemp Stříbrný rybník Hradec Králové; only CCM and CCW published; Bikejöring not inferred from cup-series wording.",
+      "primarySource": "https://www.mushing.cz/race-proposition/default/1395",
+      "secondarySource": null,
+      "origin": "European federation six-sweep review 2026-10-16",
+      "distanceText": "not published"
+    },
+    {
       "id": "2026-10-24-nm-barmark-2026-573a04",
       "date": "2026-10-24",
       "dateEnd": "2026-10-25",
@@ -4055,6 +4096,27 @@
       "origin": "web verification 2026-09-12"
     },
     {
+      "id": "2026-11-07-b-e-ansk-stopa-2026-58cbaf",
+      "date": "2026-11-07",
+      "dateEnd": "2026-11-08",
+      "country": "Czech Republic",
+      "event": "Břežanská Stopa 2026",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "official ČASS event classes; open/Nordic class conditions apply",
+      "status": "source-confirmed 2026",
+      "notes": "Organiser: Sportovní klub psích spřežení Plzeň. Sprint and mid invitations cover the same place/dates; CC BKJ SC and mid MCC MBKJ MSC classes published.",
+      "primarySource": "https://www.mushing.cz/race-proposition/default/1365",
+      "secondarySource": "https://www.mushing.cz/race-proposition/default/1371",
+      "origin": "European federation six-sweep review 2026-10-16",
+      "distanceText": "not published"
+    },
+    {
       "id": "2026-11-07-canicross-de-gallician-acte-2-04e7e6",
       "date": "2026-11-07",
       "dateEnd": null,
@@ -4111,6 +4173,26 @@
       "primarySource": "https://www.sleddog.no/next/p/74113/kurs-og-aktiviteter",
       "secondarySource": "https://www.sleddog.no/next/p/82758/barmark",
       "origin": "NHF federation sweep round 8"
+    },
+    {
+      "id": "2026-11-07-odyss-e-champenoise-2026-barbonne-fayel-saudoy-e792ca",
+      "date": "2026-11-07",
+      "dateEnd": "2026-11-08",
+      "country": "France",
+      "event": "Odyssée Champenoise 2026 – Barbonne-Fayel/Saudoy",
+      "category": [
+        "canicross",
+        "bike jöring"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "FFPTC Nordic breed restrictions and category-3 passport rules; youth cross/bike explicitly confirmed",
+      "status": "source-confirmed 2026",
+      "notes": "Organiser: Club Aurore Boréale. Event announcement explicitly lists youth cross and bicycle categories; other category distances 6–10.8 km are not assigned to adult Canicross. Youth courses 1.3 and 3.8 km. Nordic breed/category-3 passport restrictions; verify adult class and distance before entry.",
+      "primarySource": "https://ffptc.fr/odyssee-champenoise-2026-course-chiens-de-traineaux/",
+      "secondarySource": "https://ffptc.fr/commission-cynologique/",
+      "origin": "European federation six-sweep review 2026-10-16",
+      "distanceText": "not published"
     },
     {
       "id": "2026-11-07-the-grim-reservoir-dogs-694a7c",
@@ -4225,6 +4307,26 @@
       "primarySource": "https://www.traildogevents.co.uk/events",
       "secondarySource": null,
       "origin": "European independent-source sweep 2026-09-14"
+    },
+    {
+      "id": "2026-11-13-fistc-cart-european-championship-mo-ovce-2026-0e4ee6",
+      "date": "2026-11-13",
+      "dateEnd": "2026-11-15",
+      "country": "Slovakia",
+      "event": "FISTC Cart European Championship – Mošovce 2026",
+      "category": [
+        "canicross",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "FISTC Nordic breed/pedigree and federation entry requirements",
+      "status": "source-confirmed 2026",
+      "notes": "FISTC championship at Mošovce; date corroborated by host SZPZ calendar and FISTC announcement. Published classes include Nordic CCMRNB CCWRNB and SC11 plus wheeled teams; Bikejöring not inferred. Breed/pedigree and national-entry requirements apply.",
+      "primarySource": "https://www.mushing.cz/race-proposition/default/1389",
+      "secondarySource": "https://mushing.sk/preteky/",
+      "origin": "European federation six-sweep review 2026-10-16",
+      "distanceText": "not published"
     },
     {
       "id": "2026-11-14-acana-zaje-ov-2026-d7d72f",
@@ -4483,6 +4585,26 @@
       "distanceText": "not published"
     },
     {
+      "id": "2026-11-21-hradeck-sprint-2026-9a37b8",
+      "date": "2026-11-21",
+      "dateEnd": "2026-11-22",
+      "country": "Czech Republic",
+      "event": "Hradecký sprint 2026",
+      "category": [
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "official ČASS Bikejöring and Scooter classes",
+      "status": "source-confirmed 2026",
+      "notes": "Organiser: MUSHERS KLUB METUJE. Běleč nad Orlicí. Event invitation explicitly names scooter and bike cup disciplines; Canicross not inferred. Separate mid invitation has no published classes and remains a candidate.",
+      "primarySource": "https://www.mushing.cz/race-proposition/default/1347",
+      "secondarySource": null,
+      "origin": "European federation six-sweep review 2026-10-16",
+      "distanceText": "not published"
+    },
+    {
       "id": "2026-11-21-vdh-dm-canicross-2026-hockenheim-08987c",
       "date": "2026-11-21",
       "dateEnd": "2026-11-22",
@@ -4663,6 +4785,29 @@
       "secondarySource": "https://www.canisports2enjoy.nl/canisportskalender-2026-2027/",
       "origin": "semantic audit 2026-09-21",
       "distanceText": "not published"
+    },
+    {
+      "id": "2026-11-28-mushing-l-vovou-stezkou-2026-9a37fe",
+      "date": "2026-11-28",
+      "dateEnd": "2026-11-29",
+      "country": "Czech Republic",
+      "event": "Mushing lávovou stezkou 2026",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [
+        1.2,
+        3.8
+      ],
+      "elevationM": [],
+      "dogAccess": "official ČASS event classes; open/Nordic class conditions apply",
+      "status": "source-confirmed 2026",
+      "notes": "Organiser: Hanácký mushers club. RA Rio Star Moravský Beroun; sprint adult CC/BKJ/SC 3.8 km each day; junior CC 1.2 km each day. Mid classes listed separately without published distance; retained in secondary invitation.",
+      "primarySource": "https://www.mushing.cz/race-proposition/default/1360",
+      "secondarySource": "https://www.mushing.cz/race-proposition/default/1361",
+      "origin": "European federation six-sweep review 2026-10-16"
     },
     {
       "id": "2026-11-29-canicross-de-la-c-te-dopale-taples-sur-mer-b5efcd",
@@ -5239,6 +5384,27 @@
       "distanceText": "not published"
     },
     {
+      "id": "2027-01-02-8-internationales-schlittenhundewagenrennen-burg-623d73",
+      "date": "2027-01-02",
+      "dateEnd": "2027-01-03",
+      "country": "Germany",
+      "event": "8. Internationales Schlittenhundewagenrennen Burg",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "Canicross and dryland classes; guest classes for dogs without papers",
+      "status": "source-confirmed 2027",
+      "notes": "Organiser: Sachsen-Anhalter Schlittenhundesportclub. Club invitation confirms race dates separate from New Year training camp; Canicross Velo and Scooter classes. Course up to 6 km subject to weather. Guest classes for dogs without papers.",
+      "primarySource": "https://www.schlittenhundesportclubsa.de/rennen-burg",
+      "secondarySource": null,
+      "origin": "European federation six-sweep review 2026-10-16",
+      "distanceText": "up to 6"
+    },
+    {
       "id": "2027-01-02-ypb-seven-sins-challenge-canicross-a4cc8a",
       "date": "2027-01-02",
       "dateEnd": null,
@@ -5319,6 +5485,26 @@
       "primarySource": "https://www.vul.fi/talven-ja-kevaan-kilpailukalenteri-2026-2027/",
       "secondarySource": null,
       "origin": "Europe federation sweep round 4 2026-09-12"
+    },
+    {
+      "id": "2027-01-09-eduard-v-sprint-mid-2027-e851b6",
+      "date": "2027-01-09",
+      "dateEnd": "2027-01-10",
+      "country": "Czech Republic",
+      "event": "Eduardův Sprint & MID 2027",
+      "category": [
+        "ski jöring",
+        "sledge"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "official ČASS event classes; open/Nordic class conditions apply",
+      "status": "source-confirmed 2027",
+      "notes": "Organiser: Krušnohorský sportovní klub psích spřežení. TS Abertamy. Sprint SKJ and sled classes; mid MSKJ and sled classes. 5.6 km is explicitly assigned only to sprint A sled classes; mid classes publish 32 km each day. Ski sprint distance not published.",
+      "primarySource": "https://www.mushing.cz/race-proposition/default/1391",
+      "secondarySource": "https://www.mushing.cz/race-proposition/default/1392",
+      "origin": "European federation six-sweep review 2026-10-16",
+      "distanceText": "category-dependent; sprint A sled 5.6; mid 32"
     },
     {
       "id": "2027-01-09-yorkshire-trail-runs-harewood-house-054718",
@@ -5911,6 +6097,27 @@
       "distanceText": "7-8 miles"
     },
     {
+      "id": "2027-02-06-1-internationales-schlittenhundewagenrennen-werderaner-tannenhof-5ff1eb",
+      "date": "2027-02-06",
+      "dateEnd": "2027-02-07",
+      "country": "Germany",
+      "event": "1. Internationales Schlittenhundewagenrennen Werderaner Tannenhof",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "Canicross and dryland classes; guest classes allowed",
+      "status": "source-confirmed 2027",
+      "notes": "Organiser: Sachsen-Anhalter Schlittenhundesportclub. Werder (Havel); course up to 5 km subject to weather; guest classes allowed.",
+      "primarySource": "https://www.schlittenhundesportclubsa.de/rennen-tannenhof-1",
+      "secondarySource": null,
+      "origin": "European federation six-sweep review 2026-10-16",
+      "distanceText": "up to 5"
+    },
+    {
       "id": "2027-02-06-crossdogs-streetwaldcross-42612e",
       "date": "2027-02-06",
       "dateEnd": null,
@@ -5969,6 +6176,27 @@
       "primarySource": "https://www.utdf.fr/courses/canitrail-lot",
       "secondarySource": null,
       "origin": "UTMB discovery sweep 2026-09-21"
+    },
+    {
+      "id": "2027-02-06-z-sadsk-sprint-2027-78f6d2",
+      "date": "2027-02-06",
+      "dateEnd": "2027-02-07",
+      "country": "Czech Republic",
+      "event": "Zásadský Sprint 2027",
+      "category": [
+        "ski jöring",
+        "sledge",
+        "pulka"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "official ČASS event classes; open/Nordic class conditions apply",
+      "status": "source-confirmed 2027",
+      "notes": "Organiser: Sportovní klub KRAKONOŠ. Zásada; official invitation lists SKJ PM PW and sled-team classes.",
+      "primarySource": "https://www.mushing.cz/race-proposition/default/1384",
+      "secondarySource": null,
+      "origin": "European federation six-sweep review 2026-10-16",
+      "distanceText": "not published"
     },
     {
       "id": "2027-02-07-5-canicross-mud-glory-beroide-spoleto-8e1907",
@@ -6787,18 +7015,17 @@
       "category": [
         "canicross",
         "bike jöring",
-        "scooter",
-        "sledge"
+        "scooter"
       ],
       "distancesKm": [],
       "elevationM": [],
-      "dogAccess": "dedicated dryland mushing race",
+      "dogAccess": "Canicross and dryland classes; guest classes allowed",
       "status": "source-confirmed 2027",
-      "notes": "Apenburg; Canicross women/men, Velo 1/2 dogs, Scooter 1/2 dogs and team classes.",
+      "notes": "Apenburg; Canicross women/men, Velo 1/2 dogs, Scooter 1/2 dogs and team classes. Live invitation checked 2026-10-16: course up to 6 km; guest classes allowed. Team classes use wheeled rigs, not snow sleds.",
       "primarySource": "https://www.schlittenhundesportclubsa.de/rennen-apenburg",
       "secondarySource": null,
       "origin": "new European organizer sweep 2026-09-14",
-      "distanceText": "not published"
+      "distanceText": "up to 6"
     },
     {
       "id": "2027-03-13-vulcanicross-canicross-17e585",
@@ -7164,6 +7391,27 @@
       "primarySource": "https://www.traildogevents.co.uk/events",
       "secondarySource": null,
       "origin": "European independent-source sweep 2026-09-14"
+    },
+    {
+      "id": "2027-03-27-tlapkros-junior-2027-a2c310",
+      "date": "2027-03-27",
+      "dateEnd": "2027-03-28",
+      "country": "Czech Republic",
+      "event": "TLAPKROS junior 2027",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "junior dog-sport classes only",
+      "status": "source-confirmed 2027",
+      "notes": "Organiser: Musher klub Tlapky v tahu. TZ Littner Bzenec; junior classes only: BKJM/BKJW CCJD/CCJM/CCJS SC1J. Published routes A 2.4 km/15 m+ B 1.6 km/15 m+ C 0.4 km/5 m+; exact class-to-route assignment not published.",
+      "primarySource": "https://www.mushing.cz/race-proposition/default/1398",
+      "secondarySource": "https://tlapkyvtahu.cz/tlapkros-junior",
+      "origin": "European federation six-sweep review 2026-10-16",
+      "distanceText": "category-dependent routes: 0.4 / 1.6 / 2.4"
     },
     {
       "id": "2027-04-03-canicross-du-lac-des-sapins-30087c",
@@ -7993,6 +8241,27 @@
       "primarySource": "https://www.adventureruns.at/muerzathlon/",
       "secondarySource": null,
       "origin": "Adventure Runs source sweep 2026-09-15"
+    },
+    {
+      "id": "2027-09-10-podzimn-sprint-pod-jahodovou-horou-2027-878b6e",
+      "date": "2027-09-10",
+      "dateEnd": "2027-09-12",
+      "country": "Czech Republic",
+      "event": "Podzimní Sprint pod Jahodovou horou 2027",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "official ČASS event classes; open/Nordic class conditions apply",
+      "status": "source-confirmed 2027",
+      "notes": "Organiser: Sportovní klub psích spřežení Plzeň. Zemětice u Merklína; invitation lists CC BKJ SC classes. September dates are the published event span; do not infer number of racing days.",
+      "primarySource": "https://www.mushing.cz/race-proposition/default/1401",
+      "secondarySource": null,
+      "origin": "European federation six-sweep review 2026-10-16",
+      "distanceText": "not published"
     },
     {
       "id": "2027-09-18-railway-hatscher-adventure-dogs-eef7dd",

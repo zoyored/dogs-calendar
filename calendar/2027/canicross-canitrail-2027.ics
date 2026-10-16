@@ -6,6 +6,22 @@ METHOD:PUBLISH
 X-WR-CALNAME:Canicross & Canitrail Events
 X-WR-CALDESC:Canicross- und Canitrail-Veranstaltungen
 BEGIN:VEVENT
+UID:2027-01-02-8-internationales-schlittenhundewagenrennen-burg-623d73@sa
+ ndsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270104
+SUMMARY:8. Internationales Schlittenhundewagenrennen Burg
+LOCATION:Germany
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: up to 
+ 6\nHund: Canicross and dryland classes\; guest classes for dogs without 
+ papers\nStatus: source-confirmed 2027\nOrganiser: Sachsen-Anhalter Schli
+ ttenhundesportclub. Club invitation confirms race dates separate from Ne
+ w Year training camp\; Canicross Velo and Scooter classes. Course up to 
+ 6 km subject to weather. Guest classes for dogs without papers.
+URL:https://www.schlittenhundesportclubsa.de/rennen-burg
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-01-02-ypb-seven-sins-challenge-canicross-a4cc8a@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20270102
@@ -58,6 +74,23 @@ DESCRIPTION:Kategorie: ski jöring / pulka / sledge\nDistanzen: 35 km\nHun
  alendar: MD sled classes plus 1–2 dog towline/pulka ski recreational cla
  ss.
 URL:https://www.vul.fi/talven-ja-kevaan-kilpailukalenteri-2026-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-09-eduard-v-sprint-mid-2027-e851b6@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270111
+SUMMARY:Eduardův Sprint & MID 2027
+LOCATION:Czech Republic
+DESCRIPTION:Kategorie: ski jöring / sledge\nDistanz: category-dependent\;
+  sprint A sled 5.6\; mid 32\nHund: official ČASS event classes\; open/No
+ rdic class conditions apply\nStatus: source-confirmed 2027\nOrganiser: K
+ rušnohorský sportovní klub psích spřežení. TS Abertamy. Sprint SKJ and s
+ led classes\; mid MSKJ and sled classes. 5.6 km is explicitly assigned o
+ nly to sprint A sled classes\; mid classes publish 32 km each day. Ski s
+ print distance not published.\nWeitere Quelle: https://www.mushing.cz/ra
+ ce-proposition/default/1392
+URL:https://www.mushing.cz/race-proposition/default/1391
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-09-yorkshire-trail-runs-harewood-house-054718@sandsturm.com
@@ -448,6 +481,21 @@ DESCRIPTION:Kategorie: canicross\nDistanz: 7-8 miles\nHund: dedicated can
 URL:https://www.ypbevents.co.uk/mayhill-massacre
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-02-06-1-internationales-schlittenhundewagenrennen-werderaner-tan
+ nenhof-5ff1eb@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270208
+SUMMARY:1. Internationales Schlittenhundewagenrennen Werderaner Tannenhof
+LOCATION:Germany
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: up to 
+ 5\nHund: Canicross and dryland classes\; guest classes allowed\nStatus: 
+ source-confirmed 2027\nOrganiser: Sachsen-Anhalter Schlittenhundesportcl
+ ub. Werder (Havel)\; course up to 5 km subject to weather\; guest classe
+ s allowed.
+URL:https://www.schlittenhundesportclubsa.de/rennen-tannenhof-1
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-02-06-crossdogs-streetwaldcross-42612e@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20270206
@@ -486,6 +534,19 @@ DESCRIPTION:Kategorie: canitrail\nDistanzen: 14 km\nHöhenmeter: 470 hm\nH
  ser confirms 14 km / 470 m+ Canitrail\, dog water points and minimum dog
   age of 24 months.
 URL:https://www.utdf.fr/courses/canitrail-lot
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-06-z-sadsk-sprint-2027-78f6d2@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270208
+SUMMARY:Zásadský Sprint 2027
+LOCATION:Czech Republic
+DESCRIPTION:Kategorie: ski jöring / sledge / pulka\nDistanz: not publishe
+ d\nHund: official ČASS event classes\; open/Nordic class conditions appl
+ y\nStatus: source-confirmed 2027\nOrganiser: Sportovní klub KRAKONOŠ. Zá
+ sada\; official invitation lists SKJ PM PW and sled-team classes.
+URL:https://www.mushing.cz/race-proposition/default/1384
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-07-5-canicross-mud-glory-beroide-spoleto-8e1907@sandsturm.com
@@ -1002,10 +1063,12 @@ DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270315
 SUMMARY:7. Internationales Schlittenhundewagenrennen Apenburg
 LOCATION:Germany
-DESCRIPTION:Kategorie: canicross / bike jöring / scooter / sledge\nDistan
- z: not published\nHund: dedicated dryland mushing race\nStatus: source-c
- onfirmed 2027\nApenburg\; Canicross women/men\, Velo 1/2 dogs\, Scooter 
- 1/2 dogs and team classes.
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: up to 
+ 6\nHund: Canicross and dryland classes\; guest classes allowed\nStatus: 
+ source-confirmed 2027\nApenburg\; Canicross women/men\, Velo 1/2 dogs\, 
+ Scooter 1/2 dogs and team classes. Live invitation checked 2026-10-16: c
+ ourse up to 6 km\; guest classes allowed. Team classes use wheeled rigs\
+ , not snow sleds.
 URL:https://www.schlittenhundesportclubsa.de/rennen-apenburg
 END:VEVENT
 BEGIN:VEVENT
@@ -1238,6 +1301,22 @@ DESCRIPTION:Kategorie: canicross\nHund: dedicated dog-running event\nStat
  us: source-confirmed 2027\nPart of TRAILDOG The Collective series\; Kiel
  der Waterside.
 URL:https://www.traildogevents.co.uk/events
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-27-tlapkros-junior-2027-a2c310@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270329
+SUMMARY:TLAPKROS junior 2027
+LOCATION:Czech Republic
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: catego
+ ry-dependent routes: 0.4 / 1.6 / 2.4\nHund: junior dog-sport classes onl
+ y\nStatus: source-confirmed 2027\nOrganiser: Musher klub Tlapky v tahu. 
+ TZ Littner Bzenec\; junior classes only: BKJM/BKJW CCJD/CCJM/CCJS SC1J. 
+ Published routes A 2.4 km/15 m+ B 1.6 km/15 m+ C 0.4 km/5 m+\; exact cla
+ ss-to-route assignment not published.\nWeitere Quelle: https://tlapkyvta
+ hu.cz/tlapkros-junior
+URL:https://www.mushing.cz/race-proposition/default/1398
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-03-canicross-du-lac-des-sapins-30087c@sandsturm.com
@@ -1753,6 +1832,22 @@ DESCRIPTION:Kategorie: canicross\nDistanzen: 2.5 km / 5 km / 10 km\nHund:
  nAdventure Dogs Human & Dog team challenge over 2.5\, 5 or 10 km\; offic
  ial organiser page confirms 28 August 2027.
 URL:https://www.adventureruns.at/muerzathlon/
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-10-podzimn-sprint-pod-jahodovou-horou-2027-878b6e@sandsturm.c
+ om
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270913
+SUMMARY:Podzimní Sprint pod Jahodovou horou 2027
+LOCATION:Czech Republic
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
+ blished\nHund: official ČASS event classes\; open/Nordic class condition
+ s apply\nStatus: source-confirmed 2027\nOrganiser: Sportovní klub psích 
+ spřežení Plzeň. Zemětice u Merklína\; invitation lists CC BKJ SC classes
+ . September dates are the published event span\; do not infer number of 
+ racing days.
+URL:https://www.mushing.cz/race-proposition/default/1401
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-09-18-railway-hatscher-adventure-dogs-eef7dd@sandsturm.com
