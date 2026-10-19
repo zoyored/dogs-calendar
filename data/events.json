@@ -4,7 +4,7 @@
     "description": "Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.",
     "generatedAt": "2026-09-14T08:56:51Z",
     "source": "data/Canitrail_Masterkalender_2026_2027.csv",
-    "count": 404,
+    "count": 405,
     "categories": [
       "bike jöring",
       "canicross",
@@ -3562,6 +3562,27 @@
       "primarySource": "https://mushing.pl/index.php?show=kalendarz",
       "secondarySource": "https://worldtrophy.wsa-sleddog.com/?page_id=332",
       "origin": "WSA calendar sweep 2026-10-05",
+      "distanceText": "not published"
+    },
+    {
+      "id": "2026-10-24-3-ostalbtrail-bartholomae-a9ac36",
+      "date": "2026-10-24",
+      "dateEnd": "2026-10-25",
+      "country": "Germany",
+      "event": "3. Ostalbtrail Bartholomä",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "official Canicross and dryland sleddog race",
+      "status": "source-confirmed 2026",
+      "notes": "DogS+ (Dog Sports and more e.V.); Bartholomä, Am Wirtsberg 99. Organizer confirms Short, Regular and Long courses and categories from Canicross to sleddog teams; distances in kilometres not confirmed. Registration via RaceResult.",
+      "primarySource": "https://www.dogsportsandmore.de/aktuelles/ostalbtrail",
+      "secondarySource": "https://my.raceresult.com/407595/",
+      "origin": "organizer and registration verified 2026-10-19",
       "distanceText": "not published"
     },
     {

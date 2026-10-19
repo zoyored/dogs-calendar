@@ -2244,6 +2244,22 @@ DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
 URL:https://mushing.pl/index.php?show=kalendarz
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-10-24-3-ostalbtrail-bartholomae-a9ac36@sandsturm.com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+SUMMARY:3. Ostalbtrail Bartholomä
+LOCATION:Germany
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
+ blished\nHund: official Canicross and dryland sleddog race\nStatus: sour
+ ce-confirmed 2026\nDogS+ (Dog Sports and more e.V.)\; Bartholomä\, Am Wi
+ rtsberg 99. Organizer confirms Short\, Regular and Long courses and cate
+ gories from Canicross to sleddog teams\; distances in kilometres not con
+ firmed. Registration via RaceResult.\nWeitere Quelle: https://my.raceres
+ ult.com/407595/
+URL:https://www.dogsportsandmore.de/aktuelles/ostalbtrail
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-24-canicross-ardon-c90ebd@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20261024
