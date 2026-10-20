@@ -2383,6 +2383,22 @@ DESCRIPTION:Kategorie: canicross / scooter\nDistanz: not published\nHund:
 URL:https://www.vul.fi/tapahtumakalenteri/lista/
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-10-24-posbank-trail-canitrail-905fd2@sandsturm.com
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Posbank Trail – Canitrail
+LOCATION:Netherlands
+DESCRIPTION:Kategorie: canitrail\nDistanzen: 7 km / 15 km\nHund: dedicate
+ d canitrail starts\; one distance per dog\nStatus: source-confirmed 2026
+ \nCAIRN Trails & Adventures\, Scouting Markesteen\, Velp. Edition-specif
+ ic 2026 registration confirms 24 October and 7/15 km dog starts\; canitr
+ ail entries sold out at verification. Organiser overview mixes a 2027 he
+ adline with 2026 details\, so no 2027 date is inferred.\nWeitere Quelle:
+  https://canitrail.nl/events/posbank-trail/
+URL:https://inschrijven.nl/form/2026102450088-nl
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-25-canixfyn-dcf-dog-series-1-b6c717@sandsturm.com
 DTSTAMP:20260110T000000Z
 DTSTART;VALUE=DATE:20261025
@@ -2774,6 +2790,24 @@ DESCRIPTION:Kategorie: canitrail\nDistanz: not published (>9 per FFSLC ru
  //ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Can
  itrail-Ski-joering.pdf
 URL:https://courses.ffslc.fr/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-08-natte-neuzen-trail-rosendael-d86425@sandsturm.com
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Natte Neuzen Trail Rosendael
+LOCATION:Netherlands
+DESCRIPTION:Kategorie: canitrail\nDistanzen: 6 km / 10 km / 13 km / 15 km
+  / 18 km / 20 km / 26 km\nHund: dedicated Natte Neuzen Canitrail\; 6 km 
+ Snuffeltrail included\nStatus: source-confirmed 2026\nCanitrail NL offic
+ ial 2026 participant page confirms 8 November at Kasteel Rosendael\, Roz
+ endaal. Marked routes 6/10/13/15/18/20 km\; 26 km on GPS. Dog age requir
+ ements differ by distance\; Caniwalk options are separate from running.\
+ nWeitere Quelle: https://canitrail.nl/events/natte-neuzen-canitrail-rose
+ ndael-snuffeltrail/
+URL:https://canitrail.nl/de-natte-neuzen-trails-2026-2027/nnt-rosendael-2
+ 026/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08-traildog-the-collective-raby-castle-d7ea45@sandsturm.com

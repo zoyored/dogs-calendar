@@ -4,7 +4,7 @@
     "description": "Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.",
     "generatedAt": "2026-01-10T00:00:00Z",
     "source": "data/Canitrail_Masterkalender_2026_2027.csv",
-    "count": 407,
+    "count": 413,
     "categories": [
       "bike jöring",
       "canicross",
@@ -3765,6 +3765,27 @@
       "distanceText": "not published"
     },
     {
+      "id": "2026-10-24-posbank-trail-canitrail-905fd2",
+      "date": "2026-10-24",
+      "dateEnd": null,
+      "country": "Netherlands",
+      "event": "Posbank Trail – Canitrail",
+      "category": [
+        "canitrail"
+      ],
+      "distancesKm": [
+        7,
+        15
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated canitrail starts; one distance per dog",
+      "status": "source-confirmed 2026",
+      "notes": "CAIRN Trails & Adventures, Scouting Markesteen, Velp. Edition-specific 2026 registration confirms 24 October and 7/15 km dog starts; canitrail entries sold out at verification. Organiser overview mixes a 2027 headline with 2026 details, so no 2027 date is inferred.",
+      "primarySource": "https://inschrijven.nl/form/2026102450088-nl",
+      "secondarySource": "https://canitrail.nl/events/posbank-trail/",
+      "origin": "Discovery candidate review against official edition-specific sources 2026-10-20"
+    },
+    {
       "id": "2026-10-25-canixfyn-dcf-dog-series-1-b6c717",
       "date": "2026-10-25",
       "dateEnd": null,
@@ -4354,6 +4375,32 @@
       "secondarySource": "https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf",
       "origin": "FFSLC verification 2026-09-12",
       "distanceText": "not published (>9 per FFSLC rules)"
+    },
+    {
+      "id": "2026-11-08-natte-neuzen-trail-rosendael-d86425",
+      "date": "2026-11-08",
+      "dateEnd": null,
+      "country": "Netherlands",
+      "event": "Natte Neuzen Trail Rosendael",
+      "category": [
+        "canitrail"
+      ],
+      "distancesKm": [
+        6,
+        10,
+        13,
+        15,
+        18,
+        20,
+        26
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated Natte Neuzen Canitrail; 6 km Snuffeltrail included",
+      "status": "source-confirmed 2026",
+      "notes": "Canitrail NL official 2026 participant page confirms 8 November at Kasteel Rosendael, Rozendaal. Marked routes 6/10/13/15/18/20 km; 26 km on GPS. Dog age requirements differ by distance; Caniwalk options are separate from running.",
+      "primarySource": "https://canitrail.nl/de-natte-neuzen-trails-2026-2027/nnt-rosendael-2026/",
+      "secondarySource": "https://canitrail.nl/events/natte-neuzen-canitrail-rosendael-snuffeltrail/",
+      "origin": "Discovery candidate review against official edition-specific sources 2026-10-20"
     },
     {
       "id": "2026-11-08-traildog-the-collective-raby-castle-d7ea45",
@@ -5764,6 +5811,26 @@
       "distanceText": "not published"
     },
     {
+      "id": "2027-01-17-canicross-ouest-france-2027-18c776",
+      "date": "2027-01-17",
+      "dateEnd": null,
+      "country": "France",
+      "event": "CANICROSS Ouest France 2027",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [
+        5.6
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated FFSLC canicross",
+      "status": "source-confirmed 2027",
+      "notes": "Will to go 72, Le Mans / Sarthe. Official FFSLC detail confirms the dog race on Sunday 17 January, approximately 5.6 km. The general Cross Ouest France weekend is 16-17 January; translated Finishers listings are the same event, not additional dog races.",
+      "primarySource": "https://courses.ffslc.fr/event-fiche/1123",
+      "secondarySource": null,
+      "origin": "Discovery candidate review against official edition-specific sources 2026-10-20"
+    },
+    {
       "id": "2027-01-17-ccnl-bosschenhoofd-b0b6dd",
       "date": "2027-01-17",
       "dateEnd": null,
@@ -6527,6 +6594,34 @@
       "distanceText": "not published"
     },
     {
+      "id": "2027-02-13-natte-neuzen-trail-montferland-provisional-594a57",
+      "date": "2027-02-13",
+      "dateEnd": null,
+      "country": "Netherlands",
+      "event": "Natte Neuzen Trail Montferland (provisional)",
+      "category": [
+        "canitrail"
+      ],
+      "distancesKm": [
+        6,
+        10,
+        12,
+        13,
+        15,
+        20,
+        22,
+        23,
+        25
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated Natte Neuzen Canitrail; 6 km Snuffeltrail",
+      "status": "tentative - permit pending",
+      "notes": "PROVISIONAL: organiser explicitly states 13 February 2027 is subject to permit; registration opens only after permission is granted. Added at user request as a tentative event, not a confirmed permit. Marked 6/10/12/13/15 km routes; 20/22/23/25 km partly on GPS. Canitrail NL, Beek (Montferland).",
+      "primarySource": "https://canitrail.nl/de-natte-neuzen-trails-2026-2027/nnt-montferland-2027/",
+      "secondarySource": "https://canitrail.nl/events/natte-neuzen-trail-montferland/",
+      "origin": "User candidate review: explicitly accepted provisional listing 2026-10-20"
+    },
+    {
       "id": "2027-02-13-troph-e-des-lacs-79af4d",
       "date": "2027-02-13",
       "dateEnd": "2027-02-19",
@@ -7172,6 +7267,25 @@
       "origin": "Europe federation sweep round 4 2026-09-12"
     },
     {
+      "id": "2027-03-20-cani-folie-cross-trail-canicross-724c1f",
+      "date": "2027-03-20",
+      "dateEnd": null,
+      "country": "France",
+      "event": "Cani Folie Cross & Trail – Canicross",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated FFSLC canicross",
+      "status": "source-confirmed 2027",
+      "notes": "Cani Folie Association, Labatut (Ariege). Official detail confirms Saturday 20 March semi-nocturnal Canicross. Structured race distance is 6.5 km but organiser description says 7 km; exact distance remains unresolved. No elevation asserted.",
+      "primarySource": "https://courses.ffslc.fr/event-fiche/1284",
+      "secondarySource": null,
+      "origin": "Discovery candidate review against official edition-specific sources 2026-10-20",
+      "distanceText": "6.5 or 7 km (official fields disagree)"
+    },
+    {
       "id": "2027-03-20-canicross-ireland-2026-27-event-6-c6db49",
       "date": "2027-03-20",
       "dateEnd": null,
@@ -7339,6 +7453,28 @@
       "primarySource": "https://www.canitrailevents.co.uk/ultra-cani-trail-30-and-50-2027/",
       "secondarySource": null,
       "origin": "web re-check 2026-09-14"
+    },
+    {
+      "id": "2027-03-21-cani-folie-cross-trail-canitrail-422adc",
+      "date": "2027-03-21",
+      "dateEnd": null,
+      "country": "France",
+      "event": "Cani Folie Cross & Trail – Canitrail",
+      "category": [
+        "canitrail"
+      ],
+      "distancesKm": [
+        12
+      ],
+      "elevationM": [
+        350
+      ],
+      "dogAccess": "dedicated FFSLC canitrail",
+      "status": "source-confirmed 2027",
+      "notes": "Cani Folie Association, Labatut (Ariege). Latest official detail confirms Sunday 21 March, 12 km / 350 m ascent. Saturday Canicross is stored separately. Older indexed summaries mentioning only Sunday do not override the current official event details.",
+      "primarySource": "https://courses.ffslc.fr/event-fiche/1284",
+      "secondarySource": null,
+      "origin": "Discovery candidate review against official edition-specific sources 2026-10-20"
     },
     {
       "id": "2027-03-21-canicross-ireland-2026-27-event-7-313303",

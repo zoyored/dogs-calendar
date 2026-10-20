@@ -221,6 +221,21 @@ DESCRIPTION:Kategorie: sledge\nDistanz: not published\nHund: SSB sleddog
 URL:https://schlittenhundesportbayern.de/werfenweng/
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-01-17-canicross-ouest-france-2027-18c776@sandsturm.com
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:CANICROSS Ouest France 2027
+LOCATION:France
+DESCRIPTION:Kategorie: canicross\nDistanzen: 5.6 km\nHund: dedicated FFSL
+ C canicross\nStatus: source-confirmed 2027\nWill to go 72\, Le Mans / Sa
+ rthe. Official FFSLC detail confirms the dog race on Sunday 17 January\,
+  approximately 5.6 km. The general Cross Ouest France weekend is 16-17 J
+ anuary\; translated Finishers listings are the same event\, not addition
+ al dog races.
+URL:https://courses.ffslc.fr/event-fiche/1123
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-01-17-ccnl-bosschenhoofd-b0b6dd@sandsturm.com
 DTSTAMP:20260110T000000Z
 DTSTART;VALUE=DATE:20270117
@@ -715,6 +730,26 @@ DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: dedicated
 URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-02-13-natte-neuzen-trail-montferland-provisional-594a57@sandstur
+ m.com
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Natte Neuzen Trail Montferland (provisional)
+LOCATION:Netherlands
+DESCRIPTION:Kategorie: canitrail\nDistanzen: 6 km / 10 km / 12 km / 13 km
+  / 15 km / 20 km / 22 km / 23 km / 25 km\nHund: dedicated Natte Neuzen C
+ anitrail\; 6 km Snuffeltrail\nStatus: tentative - permit pending\nPROVIS
+ IONAL: organiser explicitly states 13 February 2027 is subject to permit
+ \; registration opens only after permission is granted. Added at user re
+ quest as a tentative event\, not a confirmed permit. Marked 6/10/12/13/1
+ 5 km routes\; 20/22/23/25 km partly on GPS. Canitrail NL\, Beek (Montfer
+ land).\nWeitere Quelle: https://canitrail.nl/events/natte-neuzen-trail-m
+ ontferland/
+URL:https://canitrail.nl/de-natte-neuzen-trails-2026-2027/nnt-montferland
+ -2027/
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-02-13-troph-e-des-lacs-79af4d@sandsturm.com
 DTSTAMP:20260110T000000Z
 DTSTART;VALUE=DATE:20270213
@@ -1119,6 +1154,21 @@ DESCRIPTION:Kategorie: sledge\nDistanzen: 32 km / 45 km\nHund: VUL middle
 URL:https://www.vul.fi/talven-ja-kevaan-kilpailukalenteri-2026-2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-03-20-cani-folie-cross-trail-canicross-724c1f@sandsturm.com
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Cani Folie Cross & Trail – Canicross
+LOCATION:France
+DESCRIPTION:Kategorie: canicross\nDistanz: 6.5 or 7 km (official fields d
+ isagree)\nHund: dedicated FFSLC canicross\nStatus: source-confirmed 2027
+ \nCani Folie Association\, Labatut (Ariege). Official detail confirms Sa
+ turday 20 March semi-nocturnal Canicross. Structured race distance is 6.
+ 5 km but organiser description says 7 km\; exact distance remains unreso
+ lved. No elevation asserted.
+URL:https://courses.ffslc.fr/event-fiche/1284
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-03-20-canicross-ireland-2026-27-event-6-c6db49@sandsturm.com
 DTSTAMP:20260110T000000Z
 DTSTART;VALUE=DATE:20270320
@@ -1226,6 +1276,21 @@ DESCRIPTION:Kategorie: canitrail\nDistanzen: 48.3 km / 80.5 km\nHund: dog
   30 mile route has no time limit\; 50 mile route has a 17-hour cut-off. 
  GPS tracker on both routes\; 30-mile relay option.
 URL:https://www.canitrailevents.co.uk/ultra-cani-trail-30-and-50-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-21-cani-folie-cross-trail-canitrail-422adc@sandsturm.com
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Cani Folie Cross & Trail – Canitrail
+LOCATION:France
+DESCRIPTION:Kategorie: canitrail\nDistanzen: 12 km\nHöhenmeter: 350 hm\nH
+ und: dedicated FFSLC canitrail\nStatus: source-confirmed 2027\nCani Foli
+ e Association\, Labatut (Ariege). Latest official detail confirms Sunday
+  21 March\, 12 km / 350 m ascent. Saturday Canicross is stored separatel
+ y. Older indexed summaries mentioning only Sunday do not override the cu
+ rrent official event details.
+URL:https://courses.ffslc.fr/event-fiche/1284
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-21-canicross-ireland-2026-27-event-7-313303@sandsturm.com
