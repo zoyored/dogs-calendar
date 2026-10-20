@@ -2,9 +2,9 @@
   "meta": {
     "title": "Canicross & Canitrail Events",
     "description": "Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.",
-    "generatedAt": "2026-09-14T08:56:51Z",
+    "generatedAt": "2026-01-10T00:00:00Z",
     "source": "data/Canitrail_Masterkalender_2026_2027.csv",
-    "count": 406,
+    "count": 407,
     "categories": [
       "bike jöring",
       "canicross",
@@ -2952,6 +2952,27 @@
       "secondarySource": null,
       "origin": "European federation sweep round 2 2026-09-12",
       "distanceText": "not published"
+    },
+    {
+      "id": "2026-10-10-6-hassberge-open-maroldsweisach-18e4ce",
+      "date": "2026-10-10",
+      "dateEnd": "2026-10-11",
+      "country": "Germany",
+      "event": "6. Haßberge Open – Maroldsweisach",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated dryland dog-sport race; DCW/DCM canicross classes",
+      "status": "source-confirmed 2026",
+      "notes": "FSSC and Sportverein Maroldsweisach; Sportclub Maroldsweisach, Friedrich-Rückert-Ring 8, 96126 Maroldsweisach. Official October 2026 notice lists DCW/DCM, DBW/DBM, DS1/DS2 and Happy Dog; shorter beginner/children course. October date confirmed by current VDSV listing, event notice and Race Result; do not confuse with the cancelled March announcement.",
+      "primarySource": "https://vdsv.de/kalender/73/",
+      "secondarySource": "https://my.raceresult.com/420765/",
+      "origin": "User-requested official-source verification 2026-10-20",
+      "distanceText": "approx. 4–6 km (temperature dependent)"
     },
     {
       "id": "2026-10-10-accrorun-5-canicross-b84812",
