@@ -4,7 +4,7 @@
     "description": "Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.",
     "generatedAt": "2026-09-14T08:56:51Z",
     "source": "data/Canitrail_Masterkalender_2026_2027.csv",
-    "count": 405,
+    "count": 406,
     "categories": [
       "bike jöring",
       "canicross",
@@ -4253,6 +4253,29 @@
       "secondarySource": "https://www.zughunde-nds.de/events-und-ergebnisse/",
       "origin": "web verification 2026-10-05",
       "distanceText": "not published"
+    },
+    {
+      "id": "2026-11-08-beat-the-clock-trackhunter-zughundesport-c2c8ac",
+      "date": "2026-11-08",
+      "dateEnd": null,
+      "country": "Germany",
+      "event": "BEAT THE CLOCK – Trackhunter Zughundesport",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [
+        2,
+        5
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated Canicross 2 km and 5 km; Bike and Scooter classes",
+      "status": "registration open",
+      "notes": "Trackhunter Zughundesport event at Auwald Bobingen, 86399 Bobingen, Germany; starts 10:00 Europe/Berlin. Canicross distances 2 km and 5 km; 2 km Beat the Clock format uses a predicted finish time and no watch. Adventure Walk and Beginner Trail also offered; distances for those options are not specified here.",
+      "primarySource": "https://www.trackhunter.de/event-details/beat-the-clock-2",
+      "secondarySource": "https://www.trackhunter.de/event",
+      "origin": "organizer source verification 2026-10-20; user-reported missing event"
     },
     {
       "id": "2026-11-08-canicross-deschau-34cbbf",

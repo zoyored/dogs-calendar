@@ -2704,6 +2704,24 @@ DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: VDSV dryl
 URL:https://vdsv.de/kalender/81/
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-08-beat-the-clock-trackhunter-zughundesport-c2c8ac@sandsturm.
+ com
+DTSTAMP:20260914T085651Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:BEAT THE CLOCK – Trackhunter Zughundesport
+LOCATION:Germany
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanzen: 2 km
+  / 5 km\nHund: dedicated Canicross 2 km and 5 km\; Bike and Scooter clas
+ ses\nStatus: registration open\nTrackhunter Zughundesport event at Auwal
+ d Bobingen\, 86399 Bobingen\, Germany\; starts 10:00 Europe/Berlin. Cani
+ cross distances 2 km and 5 km\; 2 km Beat the Clock format uses a predic
+ ted finish time and no watch. Adventure Walk and Beginner Trail also off
+ ered\; distances for those options are not specified here.\nWeitere Quel
+ le: https://www.trackhunter.de/event
+URL:https://www.trackhunter.de/event-details/beat-the-clock-2
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-08-canicross-deschau-34cbbf@sandsturm.com
 DTSTAMP:20260914T085651Z
 DTSTART;VALUE=DATE:20261108
