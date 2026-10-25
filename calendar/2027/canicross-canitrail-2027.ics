@@ -163,6 +163,20 @@ DESCRIPTION:Kategorie: sledge\nDistanzen: 250 km\nHund: Finnish long-dist
 URL:https://www.vul.fi/talven-ja-kevaan-kilpailukalenteri-2026-2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-01-16-doggy-trail-989101@sandsturm.com
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:DOGGY TRAIL
+LOCATION:France
+DESCRIPTION:Kategorie: canicross / canitrail\nDistanz: not published\nHun
+ d: dedicated FFSLC dog-sport event\nStatus: source-confirmed 2027\nOrgan
+ iser: Doggy Run and Bike 80. French department: 80. Official FFSLC event
+  detail verified in PR #157 (23/24 October 2026)\; admission approved by
+  user on 25 October 2026.
+URL:https://courses.ffslc.fr/event-fiche/1286
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-01-16-jaemin-talvi-sm-2027-c087a8@sandsturm.com
 DTSTAMP:20260110T000000Z
 DTSTART;VALUE=DATE:20270116
@@ -274,6 +288,23 @@ DESCRIPTION:Kategorie: ski jöring / sledge\nDistanz: not published\nHund:
  itere Quelle: https://worldtrophy.wsa-sleddog.com/?page_id=332
 URL:https://www.wsa-sleddog.com/en/?catid=2&id=129%3Awsa-world-championsh
  ips-sprint-mid-distance-2027-en&view=article
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-23-championnat-r-gional-nouvelle-aquitaine-r4-18a602@sandstur
+ m.com
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270125
+SUMMARY:Championnat régional Nouvelle Aquitaine R4
+LOCATION:France
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
+ blished\nHund: dedicated FFSLC dog-sport event\nStatus: source-confirmed
+  2027\nOrganiser: CANIKAZES 86. French department: 86. Official FFSLC ev
+ ent detail verified in PR #157 (23/24 October 2026)\; admission approved
+  by user on 25 October 2026. Domaine de Givray (86)\, 23-24 January. Co-
+ organisers named in the announcement: Canikazes 86\, Canipat’87\, CANIDO
+ L’ Bressuirais and Canisports 19.
+URL:https://courses.ffslc.fr/event-fiche/1247
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-23-danmarksmesterskab-dcf-dog-series-3-9d1024@sandsturm.com
@@ -391,6 +422,22 @@ DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nHund: CCNL nati
 URL:https://www.canicrossnederland.nl/kalender20262027.html
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-01-30-4-me-edition-du-canitrail-des-poilus-3a5bb4@sandsturm.com
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270201
+SUMMARY:4 ème Edition du Canitrail des Poilus
+LOCATION:France
+DESCRIPTION:Kategorie: canicross / canitrail / bike jöring\nDistanz: not 
+ published\nHund: dedicated FFSLC dog-sport event\nStatus: source-confirm
+ ed 2027\nOrganiser: ASPTT VERDUN. French department: 55. Official FFSLC 
+ event detail verified in PR #157 (23/24 October 2026)\; admission approv
+ ed by user on 25 October 2026. Preliminary programme: Saturday Canicross
+  and Cani-VTT\; Sunday Canitrail and Canimarche. A combined challenge do
+ es not establish a stage race.
+URL:https://courses.ffslc.fr/event-fiche/1010
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-01-30-cani-trophy-fontainebleau-2027-ae9e0b@sandsturm.com
 DTSTAMP:20260110T000000Z
 DTSTART;VALUE=DATE:20270130
@@ -496,6 +543,20 @@ DESCRIPTION:Kategorie: canicross\nDistanz: 7-8 miles\nHund: dedicated can
 URL:https://www.ypbevents.co.uk/mayhill-massacre
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-01-31-canicross-du-bois-de-la-flach-re-2027-c641f1@sandsturm.com
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Canicross du Bois de la Flachère - 2027
+LOCATION:France
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanzen: 5 km
+ \nHöhenmeter: 90 hm\nHund: dedicated FFSLC dog-sport event\nStatus: sour
+ ce-confirmed 2027\nOrganiser: Canicross Des Monts. French department: 69
+ . Official FFSLC event detail verified in PR #157 (23/24 October 2026)\;
+  admission approved by user on 25 October 2026.
+URL:https://courses.ffslc.fr/event-fiche/1254
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-02-06-1-internationales-schlittenhundewagenrennen-werderaner-tan
  nenhof-5ff1eb@sandsturm.com
 DTSTAMP:20260110T000000Z
@@ -594,6 +655,20 @@ DESCRIPTION:Kategorie: dog friendly trail\nDistanzen: 8 km / 10 km / 18 k
  ompetitive Winter races.\nWeitere Quelle: https://www.alpeadriaultra.com
  /faq/
 URL:https://www.alpeadriaultra.com/en/
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-07-canitoulousaine-51d581@sandsturm.com
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:CANI'TOULOUSAINE
+LOCATION:France
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
+ blished\nHund: dedicated FFSLC dog-sport event\nStatus: source-confirmed
+  2027\nOrganiser: Canisports 31. French department: 31. Official FFSLC e
+ vent detail verified in PR #157 (23/24 October 2026)\; admission approve
+ d by user on 25 October 2026.
+URL:https://courses.ffslc.fr/event-fiche/1269
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-07-canicross-ireland-2026-27-event-5-860559@sandsturm.com
@@ -773,6 +848,20 @@ DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: FFSLC can
 URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-02-14-canitrail-tour-du-faucon-0a57b7@sandsturm.com
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:Canitrail Tour du Faucon
+LOCATION:France
+DESCRIPTION:Kategorie: canitrail\nDistanz: not published\nHund: dedicated
+  FFSLC dog-sport event\nStatus: source-confirmed 2027\nOrganiser: dogs a
+ nd furious provence. French department: 83. Official FFSLC event detail 
+ verified in PR #157 (23/24 October 2026)\; admission approved by user on
+  25 October 2026.
+URL:https://courses.ffslc.fr/event-fiche/1250
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-02-14-ccnl-gasselte-71cd96@sandsturm.com
 DTSTAMP:20260110T000000Z
 DTSTART;VALUE=DATE:20270214
@@ -808,6 +897,20 @@ DESCRIPTION:Kategorie: sledge\nDistanz: not published\nHund: IFSS winter
  ial Finnish federation confirms IFSS World Championships sprint and midd
  le-distance sled classes.
 URL:https://www.vul.fi/talven-ja-kevaan-kilpailukalenteri-2026-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-20-canicross-des-couteliers-dbc45a@sandsturm.com
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270222
+SUMMARY:Canicross des Couteliers
+LOCATION:France
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
+ blished\nHund: dedicated FFSLC dog-sport event\nStatus: source-confirmed
+  2027\nOrganiser: CANIVULCAIN. French department: 63. Official FFSLC eve
+ nt detail verified in PR #157 (23/24 October 2026)\; admission approved 
+ by user on 25 October 2026.
+URL:https://courses.ffslc.fr/event-fiche/1249
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-21-csen-canicross-cismon-del-grappa-96844a@sandsturm.com
@@ -887,6 +990,20 @@ DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: VDSV dryl
  and Mono / Canicross\nStatus: announced\nVDSV calendar lists Schwabentra
  il as dryland race.
 URL:https://vdsv.de/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-28-17-me-canicross-en-provence-verte-0fec9c@sandsturm.com
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:17 ème canicross en provence verte
+LOCATION:France
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
+ blished\nHund: dedicated FFSLC dog-sport event\nStatus: source-confirmed
+  2027\nOrganiser: Canicross 83. French department: 83. Official FFSLC ev
+ ent detail verified in PR #157 (23/24 October 2026)\; admission approved
+  by user on 25 October 2026.
+URL:https://courses.ffslc.fr/event-fiche/1173
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-28-canicross-stjylland-dcf-dog-series-4-15b1c3@sandsturm.com
@@ -1278,6 +1395,20 @@ DESCRIPTION:Kategorie: canitrail\nDistanzen: 48.3 km / 80.5 km\nHund: dog
 URL:https://www.canitrailevents.co.uk/ultra-cani-trail-30-and-50-2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-03-21-12-me-canicross-de-caudry-e6089c@sandsturm.com
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:12 ème Canicross de Caudry
+LOCATION:France
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
+ blished\nHund: dedicated FFSLC dog-sport event\nStatus: source-confirmed
+  2027\nOrganiser: Canicross club CAUDRY. French department: 59. Official
+  FFSLC event detail verified in PR #157 (23/24 October 2026)\; admission
+  approved by user on 25 October 2026.
+URL:https://courses.ffslc.fr/event-fiche/1258
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-03-21-cani-folie-cross-trail-canitrail-422adc@sandsturm.com
 DTSTAMP:20260110T000000Z
 DTSTART;VALUE=DATE:20270321
@@ -1318,6 +1449,22 @@ DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
  atus: source-confirmed 2027\nSeventh race of 2026/27 season at Drewstown
   House.
 URL:https://www.canicross-ireland.com/upcoming-events
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-21-canitrail-de-robert-le-diable-a9a7e8@sandsturm.com
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Canitrail de Robert Le Diable
+LOCATION:France
+DESCRIPTION:Kategorie: canitrail\nDistanz: not published\nHund: dedicated
+  FFSLC dog-sport event\nStatus: provisional - route approval pending\nOr
+ ganiser: Club Canisport Normand. French department: 76. Official FFSLC e
+ vent detail verified in PR #157 (23/24 October 2026)\; admission approve
+ d by user on 25 October 2026. PROVISIONAL: 21 March is fixed\, but route
+ s (planned 13/20 km) and participant capacity are still under negotiatio
+ n with ONF. Distances are provisional.
+URL:https://courses.ffslc.fr/event-fiche/1227
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-21-ccnl-bruinisse-9bcb2d@sandsturm.com
@@ -1368,6 +1515,21 @@ DESCRIPTION:Kategorie: canicross\nHund: dedicated dog-running event\nStat
 URL:https://www.traildogevents.co.uk/events
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-03-27-la-caborun-6-e6c756@sandsturm.com
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270329
+SUMMARY:La CaboRun #6
+LOCATION:France
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanzen: 4.5 
+ km / 5.9 km\nHund: dedicated FFSLC dog-sport event\nStatus: source-confi
+ rmed 2027\nOrganiser: Loucan'icross. French department: 33. Official FFS
+ LC event detail verified in PR #157 (23/24 October 2026)\; admission app
+ roved by user on 25 October 2026. Approximately 4.5 km on Saturday\, 5.9
+ 0 km on Sunday.
+URL:https://courses.ffslc.fr/event-fiche/1226
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-03-27-tlapkros-junior-2027-a2c310@sandsturm.com
 DTSTAMP:20260110T000000Z
 DTSTART;VALUE=DATE:20270327
@@ -1382,6 +1544,21 @@ DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: catego
  ss-to-route assignment not published.\nWeitere Quelle: https://tlapkyvta
  hu.cz/tlapkros-junior
 URL:https://www.mushing.cz/race-proposition/default/1398
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-28-canicross-val-de-loire-18-5386ca@sandsturm.com
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:Canicross Val de Loire #18
+LOCATION:France
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
+ blished\nHund: dedicated FFSLC dog-sport event\nStatus: source-confirmed
+  2027\nOrganiser: Canicross Val de Loire. French department: 45. Officia
+ l FFSLC event detail verified in PR #157 (23/24 October 2026)\; admissio
+ n approved by user on 25 October 2026. Race timetable is provisional\; t
+ he event date is published.
+URL:https://courses.ffslc.fr/event-fiche/1295
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-03-canicross-du-lac-des-sapins-30087c@sandsturm.com
@@ -1527,6 +1704,20 @@ DESCRIPTION:Kategorie: canitrail / canicross\nDistanz: not published (>9
 URL:https://courses.ffslc.fr/calendar
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-04-10-canitrail-du-vignoble-nantais-41c363@sandsturm.com
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Canitrail du Vignoble Nantais
+LOCATION:France
+DESCRIPTION:Kategorie: canitrail\nDistanzen: 13.3 km\nHund: dedicated FFS
+ LC dog-sport event\nStatus: source-confirmed 2027\nOrganiser: CANIFOX44.
+  French department: 44. Official FFSLC event detail verified in PR #157 
+ (23/24 October 2026)\; admission approved by user on 25 October 2026. Ca
+ nitrail at Parc du Loiry\, Vertou\; timetable is provisional.
+URL:https://courses.ffslc.fr/event-fiche/1267
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-04-10-horsk-p-lmaraton-su-ice-cani-trail-2027-728d60@sandsturm.c
  om
 DTSTAMP:20260110T000000Z
@@ -1552,6 +1743,19 @@ DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
  blished\nHund: CCNL race\nStatus: source-confirmed 2026/27\nOfficial CCN
  L 2026/27 calendar\; Zundert.
 URL:https://www.canicrossnederland.nl/kalender20262027.html
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-11-canitrail-d-arleux-3dde4b@sandsturm.com
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Canitrail d' Arleux
+LOCATION:France
+DESCRIPTION:Kategorie: canitrail\nDistanz: not published\nHund: dedicated
+  FFSLC dog-sport event\nStatus: source-confirmed 2027\nOrganiser: ASLA. 
+ French department: 59. Official FFSLC event detail verified in PR #157 (
+ 23/24 October 2026)\; admission approved by user on 25 October 2026.
+URL:https://courses.ffslc.fr/event-fiche/1280
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-11-ccnl-zundert-8d0e0c@sandsturm.com
@@ -1723,6 +1927,37 @@ DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: dedicated
 URL:https://lakelandpaws.com/events/
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-04-25-le-gous-trail-3-fbe795@sandsturm.com
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:Le Gous Trail 3
+LOCATION:France
+DESCRIPTION:Kategorie: canitrail\nDistanzen: 12 km\nHöhenmeter: 800 hm\nH
+ und: dedicated FFSLC dog-sport event\nStatus: source-confirmed 2027\nOrg
+ aniser: Gous-Crew. French department: 09. Official FFSLC event detail ve
+ rified in PR #157 (23/24 October 2026)\; admission approved by user on 2
+ 5 October 2026.
+URL:https://courses.ffslc.fr/event-fiche/1262
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-01-l-chapp-e-verte-canitrail-en-terre-sauvage-b45ca0@sandstur
+ m.com
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270503
+SUMMARY:L'échappée Verte - Canitrail en terre sauvage
+LOCATION:France
+DESCRIPTION:Kategorie: canicross / canitrail\nDistanz: not published\nHun
+ d: dedicated FFSLC dog-sport event\nStatus: source-confirmed 2027\nOrgan
+ iser: Loire Nord Canisports. French department: 42. Official FFSLC event
+  detail verified in PR #157 (23/24 October 2026)\; admission approved by
+  user on 25 October 2026. Two Canitrails on complementary routes and a c
+ ombined challenge are announced\; further details remain unpublished. No
+  stage-race classification is inferred.
+URL:https://courses.ffslc.fr/event-fiche/1229
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-05-05-gibside-national-trust-wild-trail-runs-af60dd@sandsturm.co
  m
 DTSTAMP:20260110T000000Z
@@ -1765,6 +2000,20 @@ DESCRIPTION:Kategorie: dogs-trail\nDistanzen: 4 km / 8 km / 14 km\nHöhenm
 URL:https://www.adventureruns.at/adventure_trailrun/
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-05-15-canibaroussaise-2-572029@sandsturm.com
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:CANI'BAROUSSAISE #2
+LOCATION:France
+DESCRIPTION:Kategorie: canitrail\nDistanzen: 13.5 km\nHöhenmeter: 650 hm\
+ nHund: dedicated FFSLC dog-sport event\nStatus: source-confirmed 2027\nO
+ rganiser: Canisports 31. French department: 65. Official FFSLC event det
+ ail verified in PR #157 (23/24 October 2026)\; admission approved by use
+ r on 25 October 2026.
+URL:https://courses.ffslc.fr/event-fiche/1270
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-05-15-les-gendarmes-et-les-voleurs-de-temps-canitrail-745a02@san
  dsturm.com
 DTSTAMP:20260110T000000Z
@@ -1789,6 +2038,23 @@ DESCRIPTION:Kategorie: canicross / stage race\nDistanzen: 3.5 km / 5.7 km
  ce u Jablonce nad Nisou\; 5.7 km Hunter and 3.5 km Rocket\; two-day comb
  ined classification available.
 URL:https://www.jabloneckytahoun.cz/zavod/
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-22-canicrra-2027-24e805@sandsturm.com
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270524
+SUMMARY:CaniCRRA 2027
+LOCATION:France
+DESCRIPTION:Kategorie: canitrail\nDistanz: not published\nHund: dedicated
+  FFSLC dog-sport event\nStatus: provisional - Saturday programme pending
+ \nOrganiser: cote roannaise raid aventure. French department: 42. Offici
+ al FFSLC event detail verified in PR #157 (23/24 October 2026)\; admissi
+ on approved by user on 25 October 2026. PROVISIONAL DATE SPAN: the tradi
+ tional Canitrail is explicitly announced for Sunday 23 May (approximatel
+ y 12 km / 500 m D+). The additional short Canitrail on Saturday 22 May a
+ nd combined challenge are only envisaged\; Saturday is not confirmed.
+URL:https://courses.ffslc.fr/event-fiche/1232
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-22-maverick-cotswolds-trail-2027-b04e9a@sandsturm.com

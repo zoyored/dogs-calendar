@@ -2342,6 +2342,19 @@ DESCRIPTION:Kategorie: canicross\nDistanzen: 3.4 km / 4.1 km\nHund: FFSLC
 URL:https://courses.ffslc.fr/event-fiche/1160/
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-10-24-le-canicross-pour-tous-ed22e2@sandsturm.com
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+SUMMARY:LE CANICROSS POUR TOUS !
+LOCATION:France
+DESCRIPTION:Kategorie: canicross\nDistanzen: 5 km\nHund: dedicated FFSLC 
+ dog-sport event\nStatus: source-confirmed 2026\nOrganiser: Happy Cani Te
+ am. French department: 75. Official FFSLC event detail verified in PR #1
+ 57 (23/24 October 2026)\; admission approved by user on 25 October 2026.
+URL:https://courses.ffslc.fr/event-fiche/1261
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-24-leskros-hrade-k-1cc52a@sandsturm.com
 DTSTAMP:20260110T000000Z
 DTSTART;VALUE=DATE:20261024

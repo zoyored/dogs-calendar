@@ -4,7 +4,7 @@
     "description": "Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.",
     "generatedAt": "2026-01-10T00:00:00Z",
     "source": "data/Canitrail_Masterkalender_2026_2027.csv",
-    "count": 413,
+    "count": 432,
     "categories": [
       "bike jöring",
       "canicross",
@@ -3705,6 +3705,26 @@
       "origin": "semantic audit 2026-09-21"
     },
     {
+      "id": "2026-10-24-le-canicross-pour-tous-ed22e2",
+      "date": "2026-10-24",
+      "dateEnd": "2026-10-25",
+      "country": "France",
+      "event": "LE CANICROSS POUR TOUS !",
+      "category": [
+        "canicross"
+      ],
+      "distancesKm": [
+        5
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated FFSLC dog-sport event",
+      "status": "source-confirmed 2026",
+      "notes": "Organiser: Happy Cani Team. French department: 75. Official FFSLC event detail verified in PR #157 (23/24 October 2026); admission approved by user on 25 October 2026.",
+      "primarySource": "https://courses.ffslc.fr/event-fiche/1261",
+      "secondarySource": null,
+      "origin": "PR #157 candidate policy review; user approved admission 2026-10-25"
+    },
+    {
       "id": "2026-10-24-leskros-hrade-k-1cc52a",
       "date": "2026-10-24",
       "dateEnd": null,
@@ -5724,6 +5744,26 @@
       "origin": "Europe federation sweep round 4 2026-09-12"
     },
     {
+      "id": "2027-01-16-doggy-trail-989101",
+      "date": "2027-01-16",
+      "dateEnd": null,
+      "country": "France",
+      "event": "DOGGY TRAIL",
+      "category": [
+        "canicross",
+        "canitrail"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated FFSLC dog-sport event",
+      "status": "source-confirmed 2027",
+      "notes": "Organiser: Doggy Run and Bike 80. French department: 80. Official FFSLC event detail verified in PR #157 (23/24 October 2026); admission approved by user on 25 October 2026.",
+      "primarySource": "https://courses.ffslc.fr/event-fiche/1286",
+      "secondarySource": null,
+      "origin": "PR #157 candidate policy review; user approved admission 2026-10-25",
+      "distanceText": "not published"
+    },
+    {
       "id": "2027-01-16-jaemin-talvi-sm-2027-c087a8",
       "date": "2027-01-16",
       "dateEnd": "2027-01-17",
@@ -5889,6 +5929,27 @@
       "primarySource": "https://www.wsa-sleddog.com/en/?catid=2&id=129%3Awsa-world-championships-sprint-mid-distance-2027-en&view=article",
       "secondarySource": "https://worldtrophy.wsa-sleddog.com/?page_id=332",
       "origin": "WSA calendar sweep 2026-10-05",
+      "distanceText": "not published"
+    },
+    {
+      "id": "2027-01-23-championnat-r-gional-nouvelle-aquitaine-r4-18a602",
+      "date": "2027-01-23",
+      "dateEnd": "2027-01-24",
+      "country": "France",
+      "event": "Championnat régional Nouvelle Aquitaine R4",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated FFSLC dog-sport event",
+      "status": "source-confirmed 2027",
+      "notes": "Organiser: CANIKAZES 86. French department: 86. Official FFSLC event detail verified in PR #157 (23/24 October 2026); admission approved by user on 25 October 2026. Domaine de Givray (86), 23-24 January. Co-organisers named in the announcement: Canikazes 86, Canipat’87, CANIDOL’ Bressuirais and Canisports 19.",
+      "primarySource": "https://courses.ffslc.fr/event-fiche/1247",
+      "secondarySource": null,
+      "origin": "PR #157 candidate policy review; user approved admission 2026-10-25",
       "distanceText": "not published"
     },
     {
@@ -6075,6 +6136,27 @@
       "origin": "European federation sweep 2026-09-12"
     },
     {
+      "id": "2027-01-30-4-me-edition-du-canitrail-des-poilus-3a5bb4",
+      "date": "2027-01-30",
+      "dateEnd": "2027-01-31",
+      "country": "France",
+      "event": "4 ème Edition du Canitrail des Poilus",
+      "category": [
+        "canicross",
+        "canitrail",
+        "bike jöring"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated FFSLC dog-sport event",
+      "status": "source-confirmed 2027",
+      "notes": "Organiser: ASPTT VERDUN. French department: 55. Official FFSLC event detail verified in PR #157 (23/24 October 2026); admission approved by user on 25 October 2026. Preliminary programme: Saturday Canicross and Cani-VTT; Sunday Canitrail and Canimarche. A combined challenge does not establish a stage race.",
+      "primarySource": "https://courses.ffslc.fr/event-fiche/1010",
+      "secondarySource": null,
+      "origin": "PR #157 candidate policy review; user approved admission 2026-10-25",
+      "distanceText": "not published"
+    },
+    {
       "id": "2027-01-30-cani-trophy-fontainebleau-2027-ae9e0b",
       "date": "2027-01-30",
       "dateEnd": "2027-01-31",
@@ -6229,6 +6311,30 @@
       "distanceText": "7-8 miles"
     },
     {
+      "id": "2027-01-31-canicross-du-bois-de-la-flach-re-2027-c641f1",
+      "date": "2027-01-31",
+      "dateEnd": null,
+      "country": "France",
+      "event": "Canicross du Bois de la Flachère - 2027",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [
+        5
+      ],
+      "elevationM": [
+        90
+      ],
+      "dogAccess": "dedicated FFSLC dog-sport event",
+      "status": "source-confirmed 2027",
+      "notes": "Organiser: Canicross Des Monts. French department: 69. Official FFSLC event detail verified in PR #157 (23/24 October 2026); admission approved by user on 25 October 2026.",
+      "primarySource": "https://courses.ffslc.fr/event-fiche/1254",
+      "secondarySource": null,
+      "origin": "PR #157 candidate policy review; user approved admission 2026-10-25"
+    },
+    {
       "id": "2027-02-06-1-internationales-schlittenhundewagenrennen-werderaner-tannenhof-5ff1eb",
       "date": "2027-02-06",
       "dateEnd": "2027-02-07",
@@ -6376,6 +6482,27 @@
       "primarySource": "https://www.alpeadriaultra.com/en/",
       "secondarySource": "https://www.alpeadriaultra.com/faq/",
       "origin": "semantic audit 2026-09-21"
+    },
+    {
+      "id": "2027-02-07-canitoulousaine-51d581",
+      "date": "2027-02-07",
+      "dateEnd": null,
+      "country": "France",
+      "event": "CANI'TOULOUSAINE",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated FFSLC dog-sport event",
+      "status": "source-confirmed 2027",
+      "notes": "Organiser: Canisports 31. French department: 31. Official FFSLC event detail verified in PR #157 (23/24 October 2026); admission approved by user on 25 October 2026.",
+      "primarySource": "https://courses.ffslc.fr/event-fiche/1269",
+      "secondarySource": null,
+      "origin": "PR #157 candidate policy review; user approved admission 2026-10-25",
+      "distanceText": "not published"
     },
     {
       "id": "2027-02-07-canicross-ireland-2026-27-event-5-860559",
@@ -6660,6 +6787,25 @@
       "distanceText": "not published"
     },
     {
+      "id": "2027-02-14-canitrail-tour-du-faucon-0a57b7",
+      "date": "2027-02-14",
+      "dateEnd": null,
+      "country": "France",
+      "event": "Canitrail Tour du Faucon",
+      "category": [
+        "canitrail"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated FFSLC dog-sport event",
+      "status": "source-confirmed 2027",
+      "notes": "Organiser: dogs and furious provence. French department: 83. Official FFSLC event detail verified in PR #157 (23/24 October 2026); admission approved by user on 25 October 2026.",
+      "primarySource": "https://courses.ffslc.fr/event-fiche/1250",
+      "secondarySource": null,
+      "origin": "PR #157 candidate policy review; user approved admission 2026-10-25",
+      "distanceText": "not published"
+    },
+    {
       "id": "2027-02-14-ccnl-gasselte-71cd96",
       "date": "2027-02-14",
       "dateEnd": null,
@@ -6714,6 +6860,27 @@
       "primarySource": "https://www.vul.fi/talven-ja-kevaan-kilpailukalenteri-2026-2027/",
       "secondarySource": null,
       "origin": "Europe federation sweep round 4 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
+      "id": "2027-02-20-canicross-des-couteliers-dbc45a",
+      "date": "2027-02-20",
+      "dateEnd": "2027-02-21",
+      "country": "France",
+      "event": "Canicross des Couteliers",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated FFSLC dog-sport event",
+      "status": "source-confirmed 2027",
+      "notes": "Organiser: CANIVULCAIN. French department: 63. Official FFSLC event detail verified in PR #157 (23/24 October 2026); admission approved by user on 25 October 2026.",
+      "primarySource": "https://courses.ffslc.fr/event-fiche/1249",
+      "secondarySource": null,
+      "origin": "PR #157 candidate policy review; user approved admission 2026-10-25",
       "distanceText": "not published"
     },
     {
@@ -6833,6 +7000,27 @@
       "primarySource": "https://vdsv.de/kalender/",
       "secondarySource": null,
       "origin": "VDSV Canicross import 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
+      "id": "2027-02-28-17-me-canicross-en-provence-verte-0fec9c",
+      "date": "2027-02-28",
+      "dateEnd": null,
+      "country": "France",
+      "event": "17 ème canicross en provence verte",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated FFSLC dog-sport event",
+      "status": "source-confirmed 2027",
+      "notes": "Organiser: Canicross 83. French department: 83. Official FFSLC event detail verified in PR #157 (23/24 October 2026); admission approved by user on 25 October 2026.",
+      "primarySource": "https://courses.ffslc.fr/event-fiche/1173",
+      "secondarySource": null,
+      "origin": "PR #157 candidate policy review; user approved admission 2026-10-25",
       "distanceText": "not published"
     },
     {
@@ -7455,6 +7643,27 @@
       "origin": "web re-check 2026-09-14"
     },
     {
+      "id": "2027-03-21-12-me-canicross-de-caudry-e6089c",
+      "date": "2027-03-21",
+      "dateEnd": null,
+      "country": "France",
+      "event": "12 ème Canicross de Caudry",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated FFSLC dog-sport event",
+      "status": "source-confirmed 2027",
+      "notes": "Organiser: Canicross club CAUDRY. French department: 59. Official FFSLC event detail verified in PR #157 (23/24 October 2026); admission approved by user on 25 October 2026.",
+      "primarySource": "https://courses.ffslc.fr/event-fiche/1258",
+      "secondarySource": null,
+      "origin": "PR #157 candidate policy review; user approved admission 2026-10-25",
+      "distanceText": "not published"
+    },
+    {
       "id": "2027-03-21-cani-folie-cross-trail-canitrail-422adc",
       "date": "2027-03-21",
       "dateEnd": null,
@@ -7516,6 +7725,25 @@
       "primarySource": "https://www.canicross-ireland.com/upcoming-events",
       "secondarySource": null,
       "origin": "Europe federation sweep round 3 2026-09-12",
+      "distanceText": "not published"
+    },
+    {
+      "id": "2027-03-21-canitrail-de-robert-le-diable-a9a7e8",
+      "date": "2027-03-21",
+      "dateEnd": null,
+      "country": "France",
+      "event": "Canitrail de Robert Le Diable",
+      "category": [
+        "canitrail"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated FFSLC dog-sport event",
+      "status": "provisional - route approval pending",
+      "notes": "Organiser: Club Canisport Normand. French department: 76. Official FFSLC event detail verified in PR #157 (23/24 October 2026); admission approved by user on 25 October 2026. PROVISIONAL: 21 March is fixed, but routes (planned 13/20 km) and participant capacity are still under negotiation with ONF. Distances are provisional.",
+      "primarySource": "https://courses.ffslc.fr/event-fiche/1227",
+      "secondarySource": null,
+      "origin": "PR #157 candidate policy review; user approved admission 2026-10-25",
       "distanceText": "not published"
     },
     {
@@ -7594,6 +7822,29 @@
       "origin": "European independent-source sweep 2026-09-14"
     },
     {
+      "id": "2027-03-27-la-caborun-6-e6c756",
+      "date": "2027-03-27",
+      "dateEnd": "2027-03-28",
+      "country": "France",
+      "event": "La CaboRun #6",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [
+        4.5,
+        5.9
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated FFSLC dog-sport event",
+      "status": "source-confirmed 2027",
+      "notes": "Organiser: Loucan'icross. French department: 33. Official FFSLC event detail verified in PR #157 (23/24 October 2026); admission approved by user on 25 October 2026. Approximately 4.5 km on Saturday, 5.90 km on Sunday.",
+      "primarySource": "https://courses.ffslc.fr/event-fiche/1226",
+      "secondarySource": null,
+      "origin": "PR #157 candidate policy review; user approved admission 2026-10-25"
+    },
+    {
       "id": "2027-03-27-tlapkros-junior-2027-a2c310",
       "date": "2027-03-27",
       "dateEnd": "2027-03-28",
@@ -7613,6 +7864,27 @@
       "secondarySource": "https://tlapkyvtahu.cz/tlapkros-junior",
       "origin": "European federation six-sweep review 2026-10-16",
       "distanceText": "category-dependent routes: 0.4 / 1.6 / 2.4"
+    },
+    {
+      "id": "2027-03-28-canicross-val-de-loire-18-5386ca",
+      "date": "2027-03-28",
+      "dateEnd": null,
+      "country": "France",
+      "event": "Canicross Val de Loire #18",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated FFSLC dog-sport event",
+      "status": "source-confirmed 2027",
+      "notes": "Organiser: Canicross Val de Loire. French department: 45. Official FFSLC event detail verified in PR #157 (23/24 October 2026); admission approved by user on 25 October 2026. Race timetable is provisional; the event date is published.",
+      "primarySource": "https://courses.ffslc.fr/event-fiche/1295",
+      "secondarySource": null,
+      "origin": "PR #157 candidate policy review; user approved admission 2026-10-25",
+      "distanceText": "not published"
     },
     {
       "id": "2027-04-03-canicross-du-lac-des-sapins-30087c",
@@ -7841,6 +8113,26 @@
       "distanceText": "not published (>9 per FFSLC rules)"
     },
     {
+      "id": "2027-04-10-canitrail-du-vignoble-nantais-41c363",
+      "date": "2027-04-10",
+      "dateEnd": null,
+      "country": "France",
+      "event": "Canitrail du Vignoble Nantais",
+      "category": [
+        "canitrail"
+      ],
+      "distancesKm": [
+        13.3
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated FFSLC dog-sport event",
+      "status": "source-confirmed 2027",
+      "notes": "Organiser: CANIFOX44. French department: 44. Official FFSLC event detail verified in PR #157 (23/24 October 2026); admission approved by user on 25 October 2026. Canitrail at Parc du Loiry, Vertou; timetable is provisional.",
+      "primarySource": "https://courses.ffslc.fr/event-fiche/1267",
+      "secondarySource": null,
+      "origin": "PR #157 candidate policy review; user approved admission 2026-10-25"
+    },
+    {
       "id": "2027-04-10-horsk-p-lmaraton-su-ice-cani-trail-2027-728d60",
       "date": "2027-04-10",
       "dateEnd": null,
@@ -7879,6 +8171,25 @@
       "primarySource": "https://www.canicrossnederland.nl/kalender20262027.html",
       "secondarySource": null,
       "origin": "Europe gap large sweep 2026-09-14",
+      "distanceText": "not published"
+    },
+    {
+      "id": "2027-04-11-canitrail-d-arleux-3dde4b",
+      "date": "2027-04-11",
+      "dateEnd": null,
+      "country": "France",
+      "event": "Canitrail d' Arleux",
+      "category": [
+        "canitrail"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated FFSLC dog-sport event",
+      "status": "source-confirmed 2027",
+      "notes": "Organiser: ASLA. French department: 59. Official FFSLC event detail verified in PR #157 (23/24 October 2026); admission approved by user on 25 October 2026.",
+      "primarySource": "https://courses.ffslc.fr/event-fiche/1280",
+      "secondarySource": null,
+      "origin": "PR #157 candidate policy review; user approved admission 2026-10-25",
       "distanceText": "not published"
     },
     {
@@ -8152,6 +8463,48 @@
       "distanceText": "not published"
     },
     {
+      "id": "2027-04-25-le-gous-trail-3-fbe795",
+      "date": "2027-04-25",
+      "dateEnd": null,
+      "country": "France",
+      "event": "Le Gous Trail 3",
+      "category": [
+        "canitrail"
+      ],
+      "distancesKm": [
+        12
+      ],
+      "elevationM": [
+        800
+      ],
+      "dogAccess": "dedicated FFSLC dog-sport event",
+      "status": "source-confirmed 2027",
+      "notes": "Organiser: Gous-Crew. French department: 09. Official FFSLC event detail verified in PR #157 (23/24 October 2026); admission approved by user on 25 October 2026.",
+      "primarySource": "https://courses.ffslc.fr/event-fiche/1262",
+      "secondarySource": null,
+      "origin": "PR #157 candidate policy review; user approved admission 2026-10-25"
+    },
+    {
+      "id": "2027-05-01-l-chapp-e-verte-canitrail-en-terre-sauvage-b45ca0",
+      "date": "2027-05-01",
+      "dateEnd": "2027-05-02",
+      "country": "France",
+      "event": "L'échappée Verte - Canitrail en terre sauvage",
+      "category": [
+        "canicross",
+        "canitrail"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated FFSLC dog-sport event",
+      "status": "source-confirmed 2027",
+      "notes": "Organiser: Loire Nord Canisports. French department: 42. Official FFSLC event detail verified in PR #157 (23/24 October 2026); admission approved by user on 25 October 2026. Two Canitrails on complementary routes and a combined challenge are announced; further details remain unpublished. No stage-race classification is inferred.",
+      "primarySource": "https://courses.ffslc.fr/event-fiche/1229",
+      "secondarySource": null,
+      "origin": "PR #157 candidate policy review; user approved admission 2026-10-25",
+      "distanceText": "not published"
+    },
+    {
       "id": "2027-05-05-gibside-national-trust-wild-trail-runs-af60dd",
       "date": "2027-05-05",
       "dateEnd": null,
@@ -8223,6 +8576,28 @@
       "origin": "Adventure Runs source sweep 2026-09-15"
     },
     {
+      "id": "2027-05-15-canibaroussaise-2-572029",
+      "date": "2027-05-15",
+      "dateEnd": null,
+      "country": "France",
+      "event": "CANI'BAROUSSAISE #2",
+      "category": [
+        "canitrail"
+      ],
+      "distancesKm": [
+        13.5
+      ],
+      "elevationM": [
+        650
+      ],
+      "dogAccess": "dedicated FFSLC dog-sport event",
+      "status": "source-confirmed 2027",
+      "notes": "Organiser: Canisports 31. French department: 65. Official FFSLC event detail verified in PR #157 (23/24 October 2026); admission approved by user on 25 October 2026.",
+      "primarySource": "https://courses.ffslc.fr/event-fiche/1270",
+      "secondarySource": null,
+      "origin": "PR #157 candidate policy review; user approved admission 2026-10-25"
+    },
+    {
       "id": "2027-05-15-les-gendarmes-et-les-voleurs-de-temps-canitrail-745a02",
       "date": "2027-05-15",
       "dateEnd": null,
@@ -8265,6 +8640,25 @@
       "primarySource": "https://www.jabloneckytahoun.cz/zavod/",
       "secondarySource": null,
       "origin": "new European organizer sweep 2026-09-14"
+    },
+    {
+      "id": "2027-05-22-canicrra-2027-24e805",
+      "date": "2027-05-22",
+      "dateEnd": "2027-05-23",
+      "country": "France",
+      "event": "CaniCRRA 2027",
+      "category": [
+        "canitrail"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated FFSLC dog-sport event",
+      "status": "provisional - Saturday programme pending",
+      "notes": "Organiser: cote roannaise raid aventure. French department: 42. Official FFSLC event detail verified in PR #157 (23/24 October 2026); admission approved by user on 25 October 2026. PROVISIONAL DATE SPAN: the traditional Canitrail is explicitly announced for Sunday 23 May (approximately 12 km / 500 m D+). The additional short Canitrail on Saturday 22 May and combined challenge are only envisaged; Saturday is not confirmed.",
+      "primarySource": "https://courses.ffslc.fr/event-fiche/1232",
+      "secondarySource": null,
+      "origin": "PR #157 candidate policy review; user approved admission 2026-10-25",
+      "distanceText": "not published"
     },
     {
       "id": "2027-05-22-maverick-cotswolds-trail-2027-b04e9a",
