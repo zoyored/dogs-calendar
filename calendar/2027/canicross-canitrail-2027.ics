@@ -163,6 +163,19 @@ DESCRIPTION:Kategorie: sledge\nDistanzen: 250 km\nHund: Finnish long-dist
 URL:https://www.vul.fi/talven-ja-kevaan-kilpailukalenteri-2026-2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-01-16-canicross-et-canitrail-de-p-charmant-7b5abb@sandsturm.com
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270118
+SUMMARY:Canicross et Canitrail de Pécharmant
+LOCATION:France
+DESCRIPTION:Kategorie: canicross / canitrail\nDistanz: not published\nHun
+ d: dedicated FFSLC dog-sport event\nStatus: source-confirmed 2027\nOrgan
+ iser: CROC'CYRANO. French department: 24. Official FFSLC event detail ve
+ rified in PR #161\; admission approved by user on 26 October 2026.
+URL:https://courses.ffslc.fr/event-fiche/1223
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-01-16-doggy-trail-989101@sandsturm.com
 DTSTAMP:20260110T000000Z
 DTSTART;VALUE=DATE:20270116
