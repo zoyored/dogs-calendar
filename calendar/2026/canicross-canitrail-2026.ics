@@ -2481,6 +2481,26 @@ DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
 URL:https://my.raceresult.com/412888/
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-10-30-bm-leipa-better-mushing-seminar-ssvs-75cb2b@sandsturm.com
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261101
+SUMMARY:BM Leipa – Better Mushing Seminar (SSVS)
+LOCATION:Germany
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
+ blished\nHund: Practical dog-team training\; CaniX-Run\, bike\, scooter 
+ and training rigs\nStatus: upcoming\nSEMINAR / TRAINING\, not a race. Or
+ ganizer: Schlittenhunde-Sportverein Sachsen e.V. (SSVS)\; instructor Bir
+ git Kostbahn. Theory 30 October 17:00–20:00\; practice 31 October 08:00–
+ 12:00 in Leipa/Jessen. Held alongside Leipa Open (SSVS with ITF)\; the r
+ ace is a separate event on 31 October–1 November. Included at user reque
+ st after event-specific verification. Categories describe practical disc
+ iplines\, not competitive classes.\nWeitere Quelle: https://ssvs-sachsen
+ .de/veranstaltungen/
+URL:https://ssvs-sachsen.de/wp-content/uploads/go-x/u/79a73a25-226f-4345-
+ 818e-6839c9423a5d/Ausschreibung-BM-Leipa.pdf
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-30-sm-barmark-2026-nybro-a4e6e7@sandsturm.com
 DTSTAMP:20260110T000000Z
 DTSTART;VALUE=DATE:20261030
@@ -2586,6 +2606,27 @@ DESCRIPTION:Kategorie: canicross\nDistanz: not published\nHund: SZPZ dryl
  and race\nStatus: source-confirmed 2026/27\nOfficial SZPZ 2026/27 race c
  alendar\; Mošovce.
 URL:https://mushing.sk/preteky/
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-31-schlittenhundewagenrennen-elsholz-beelitz-1b9643@sandsturm
+ .com
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261102
+SUMMARY:Schlittenhundewagenrennen Elsholz / Beelitz
+LOCATION:Germany
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: 3-5 km
+  (sprint classes\; weather-dependent)\nHund: Dedicated Canicross (DCM/DC
+ W)\, Bike (DBM/DBW)\, Scooter (DSM/DSW/DS2) and dryland rig classes\nSta
+ tus: upcoming\nOrganizer: MSC – Mitteldeutscher Schlittenhunde Club e.V.
+  Venue: Elsholzer Ausbau 2\, 14547 Beelitz. Official 2026 regulations ex
+ plicitly list Canicross\, Bike\, Scooter and DR4/DR6/DR8/DRU rig classes
+ . Sprint routes 3–5 km\; tour 8–12 km depending on weather. Tour distanc
+ e is not assigned to Canicross. Start 10:00 both days\, weather permitti
+ ng. Dryland rigs are recorded in notes\, not misclassified as snow sledd
+ ing.\nWeitere Quelle: https://vdsv.de/wp-content/uploads/2026/09/Ausschr
+ eibung-Elsholz.pdf
+URL:https://www.schlittenhundeverein.eu/
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31-trail-du-calvaire-34f8b7@sandsturm.com

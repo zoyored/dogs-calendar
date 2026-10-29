@@ -4,7 +4,7 @@
     "description": "Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.",
     "generatedAt": "2026-01-10T00:00:00Z",
     "source": "data/Canitrail_Masterkalender_2026_2027.csv",
-    "count": 433,
+    "count": 435,
     "categories": [
       "bike jöring",
       "canicross",
@@ -3912,6 +3912,27 @@
       "distanceText": "not published"
     },
     {
+      "id": "2026-10-30-bm-leipa-better-mushing-seminar-ssvs-75cb2b",
+      "date": "2026-10-30",
+      "dateEnd": "2026-10-31",
+      "country": "Germany",
+      "event": "BM Leipa – Better Mushing Seminar (SSVS)",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "Practical dog-team training; CaniX-Run, bike, scooter and training rigs",
+      "status": "upcoming",
+      "notes": "SEMINAR / TRAINING, not a race. Organizer: Schlittenhunde-Sportverein Sachsen e.V. (SSVS); instructor Birgit Kostbahn. Theory 30 October 17:00–20:00; practice 31 October 08:00–12:00 in Leipa/Jessen. Held alongside Leipa Open (SSVS with ITF); the race is a separate event on 31 October–1 November. Included at user request after event-specific verification. Categories describe practical disciplines, not competitive classes.",
+      "primarySource": "https://ssvs-sachsen.de/wp-content/uploads/go-x/u/79a73a25-226f-4345-818e-6839c9423a5d/Ausschreibung-BM-Leipa.pdf",
+      "secondarySource": "https://ssvs-sachsen.de/veranstaltungen/",
+      "origin": "Official organizer verification and user-requested seminar inclusion 2026-10-29",
+      "distanceText": "not published"
+    },
+    {
       "id": "2026-10-30-sm-barmark-2026-nybro-a4e6e7",
       "date": "2026-10-30",
       "dateEnd": "2026-11-01",
@@ -4075,6 +4096,27 @@
       "secondarySource": null,
       "origin": "Europe gap large sweep 2026-09-14",
       "distanceText": "not published"
+    },
+    {
+      "id": "2026-10-31-schlittenhundewagenrennen-elsholz-beelitz-1b9643",
+      "date": "2026-10-31",
+      "dateEnd": "2026-11-01",
+      "country": "Germany",
+      "event": "Schlittenhundewagenrennen Elsholz / Beelitz",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "Dedicated Canicross (DCM/DCW), Bike (DBM/DBW), Scooter (DSM/DSW/DS2) and dryland rig classes",
+      "status": "upcoming",
+      "notes": "Organizer: MSC – Mitteldeutscher Schlittenhunde Club e.V. Venue: Elsholzer Ausbau 2, 14547 Beelitz. Official 2026 regulations explicitly list Canicross, Bike, Scooter and DR4/DR6/DR8/DRU rig classes. Sprint routes 3–5 km; tour 8–12 km depending on weather. Tour distance is not assigned to Canicross. Start 10:00 both days, weather permitting. Dryland rigs are recorded in notes, not misclassified as snow sledding.",
+      "primarySource": "https://www.schlittenhundeverein.eu/",
+      "secondarySource": "https://vdsv.de/wp-content/uploads/2026/09/Ausschreibung-Elsholz.pdf",
+      "origin": "Official organizer and event regulations verification 2026-10-29",
+      "distanceText": "3-5 km (sprint classes; weather-dependent)"
     },
     {
       "id": "2026-10-31-trail-du-calvaire-34f8b7",
