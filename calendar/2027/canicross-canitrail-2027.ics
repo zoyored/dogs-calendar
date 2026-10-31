@@ -1664,6 +1664,23 @@ DESCRIPTION:Kategorie: canicross\nDistanzen: 12 km\nHund: dedicated canic
 URL:https://www.sientries.co.uk/event.php?elid=Y&event_id=17842
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-04-04-les-rives-du-dolo-a50ff1@sandsturm.com
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:LES RIVES DU DOLO
+LOCATION:France
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: ~5\nHu
+ nd: dedicated FFSLC dog-sport event\nStatus: source-confirmed 2027\nOrga
+ niser: Les Canidol’ Bressuirais. Venue: Château de Bressuire (79). Appro
+ ximate main-course distance ~5 km approved by user\; official FFSLC test
+ s list canicross 6 km and bike/scooter 4.9 km\, while the description gi
+ ves 5 km. Date and dog disciplines confirmed in official event details. 
+ Registration deadlines still show the previous edition and must not be u
+ sed as race dates.
+URL:https://courses.ffslc.fr/event-fiche/1282
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-04-04-scone-palace-trail-runs-8e1222@sandsturm.com
 DTSTAMP:20260110T000000Z
 DTSTART;VALUE=DATE:20270404

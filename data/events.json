@@ -4,7 +4,7 @@
     "description": "Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.",
     "generatedAt": "2026-01-10T00:00:00Z",
     "source": "data/Canitrail_Masterkalender_2026_2027.csv",
-    "count": 435,
+    "count": 436,
     "categories": [
       "bike jöring",
       "canicross",
@@ -8091,6 +8091,27 @@
       "primarySource": "https://www.sientries.co.uk/event.php?elid=Y&event_id=17842",
       "secondarySource": "https://lakelandpaws.com/events/",
       "origin": "web verification 2026-09-12"
+    },
+    {
+      "id": "2027-04-04-les-rives-du-dolo-a50ff1",
+      "date": "2027-04-04",
+      "dateEnd": null,
+      "country": "France",
+      "event": "LES RIVES DU DOLO",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [],
+      "elevationM": [],
+      "dogAccess": "dedicated FFSLC dog-sport event",
+      "status": "source-confirmed 2027",
+      "notes": "Organiser: Les Canidol’ Bressuirais. Venue: Château de Bressuire (79). Approximate main-course distance ~5 km approved by user; official FFSLC tests list canicross 6 km and bike/scooter 4.9 km, while the description gives 5 km. Date and dog disciplines confirmed in official event details. Registration deadlines still show the previous edition and must not be used as race dates.",
+      "primarySource": "https://courses.ffslc.fr/event-fiche/1282",
+      "secondarySource": null,
+      "origin": "PR #178 candidate policy review; user approved admission 2026-10-31",
+      "distanceText": "~5"
     },
     {
       "id": "2027-04-04-scone-palace-trail-runs-8e1222",
