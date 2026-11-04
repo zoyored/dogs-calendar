@@ -3191,6 +3191,25 @@ DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
 URL:https://worldtrophy.wsa-sleddog.com/?page_id=332
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-hundewagenrennen-weinfelden-1596b4@sandsturm.com
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+SUMMARY:Hundewagenrennen Weinfelden
+LOCATION:Switzerland
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanzen: 4.5 
+ km / 4.6 km / 6.8 km\nHund: dedicated dryland dog-sport classes\nStatus:
+  source-confirmed 2026\nOrganizer: Zughundesport Schweiz (formerly Dog C
+ art Thurgau). Venue: Thurbad\, Weinfelden. Two runs\, both compulsory\; 
+ total time counts. CaniX Run: short 4.5 km / long 6.8 km\; Bike: short 4
+ .6 km / long 6.8 km\; Scooter: DS1 4.6 km\, DS2 4.5 km\, long 6.8 km. DR
+ 2/4/6/8/10+ dryland rig classes 6.8 km. Saturday only: children and Happ
+ y Dog 1.7 km\, Sacco 4.6 km. Entry deadline 22 November 2026 23:59. Dryl
+ and rigs are not snow sledding.\nWeitere Quelle: https://zughundesport-s
+ chweiz.ch/assets/files/Ausschreibung-Weinfelden.pdf
+URL:https://zughundesport-schweiz.ch/page7.html
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-maldegem-belgisch-kampioenschap-canicross-9a0616@sandsturm
  .com
 DTSTAMP:20260110T000000Z
@@ -3500,6 +3519,27 @@ DESCRIPTION:Kategorie: canitrail\nDistanz: not published (>9 per FFSLC ru
  //ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Can
  itrail-Ski-joering.pdf
 URL:https://courses.ffslc.fr/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-hundewagenrennen-thalheim-schweizermeisterschaft-wagenklas
+ sen-caa60b@sandsturm.com
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261214
+SUMMARY:Hundewagenrennen Thalheim – Schweizermeisterschaft Wagenklassen
+LOCATION:Switzerland
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
+ blished\nHund: dedicated dryland dog-sport classes\nStatus: source-confi
+ rmed date\; current race details pending\nOrganizer: Zughundesport Schwe
+ iz (formerly Dog Cart Thurgau). Venue: Asperhof\, Thalheim an der Thur. 
+ Official 2026 overview confirms 12-13 December and Swiss championship in
+  rig classes. Linked regulations list CaniX Run\, Bike\, Dogscooter and 
+ dryland rigs\, but retain a 23 November 2025 entry deadline. Current dis
+ tances and entry deadline therefore remain unconfirmed\; do not reuse pr
+ evious-edition figures. Swiss championship designation applies to rig cl
+ asses\, not automatically to Canicross.\nWeitere Quelle: https://zughund
+ esport-schweiz.ch/assets/files/Ausschreibung-SM.pdf
+URL:https://zughundesport-schweiz.ch/page7.html
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-canicross-ireland-2026-27-event-4-fa21d8@sandsturm.com
