@@ -4,7 +4,7 @@
     "description": "Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.",
     "generatedAt": "2026-01-10T00:00:00Z",
     "source": "data/Canitrail_Masterkalender_2026_2027.csv",
-    "count": 438,
+    "count": 439,
     "categories": [
       "bike jöring",
       "canicross",
@@ -8985,6 +8985,28 @@
       "secondarySource": null,
       "origin": "European federation six-sweep review 2026-10-16",
       "distanceText": "not published"
+    },
+    {
+      "id": "2027-09-18-arberland-ultra-trail-hundelauf-e0d397",
+      "date": "2027-09-18",
+      "dateEnd": null,
+      "country": "Germany",
+      "event": "ARBERLAND Ultra Trail – Hundelauf",
+      "category": [
+        "dogs-trail"
+      ],
+      "distancesKm": [
+        20
+      ],
+      "elevationM": [
+        900
+      ],
+      "dogAccess": "dedicated dog start + ranking",
+      "status": "source-confirmed 2027",
+      "notes": "2027 organiser overview explicitly lists Arbersee Trail 20 km / 900 m+ with Hundelauf. Dog start 10:15. Schachtenbach Trail 36 km dog participation remains unclear: organiser overview omits dog label while detailed dog rules still mention both routes; do not list 36 km as confirmed for 2027.",
+      "primarySource": "https://www.woidlaeufer.de/",
+      "secondarySource": "https://www.woidlaeufer.de/home/wichtige-informationen",
+      "origin": "organiser verification 2026-11-11"
     },
     {
       "id": "2027-09-18-railway-hatscher-adventure-dogs-eef7dd",

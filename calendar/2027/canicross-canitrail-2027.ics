@@ -2211,6 +2211,23 @@ DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
 URL:https://www.mushing.cz/race-proposition/default/1401
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-09-18-arberland-ultra-trail-hundelauf-e0d397@sandsturm.com
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270919
+SUMMARY:ARBERLAND Ultra Trail – Hundelauf
+LOCATION:Germany
+DESCRIPTION:Kategorie: dogs-trail\nDistanzen: 20 km\nHöhenmeter: 900 hm\n
+ Hund: dedicated dog start + ranking\nStatus: source-confirmed 2027\n2027
+  organiser overview explicitly lists Arbersee Trail 20 km / 900 m+ with 
+ Hundelauf. Dog start 10:15. Schachtenbach Trail 36 km dog participation 
+ remains unclear: organiser overview omits dog label while detailed dog r
+ ules still mention both routes\; do not list 36 km as confirmed for 2027
+ .\nWeitere Quelle: https://www.woidlaeufer.de/home/wichtige-informatione
+ n
+URL:https://www.woidlaeufer.de/
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-09-18-railway-hatscher-adventure-dogs-eef7dd@sandsturm.com
 DTSTAMP:20260110T000000Z
 DTSTART;VALUE=DATE:20270918
