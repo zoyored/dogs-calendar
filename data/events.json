@@ -8270,14 +8270,14 @@
         "canitrail"
       ],
       "distancesKm": [
-        12
+        6.2
       ],
       "elevationM": [],
       "dogAccess": "dedicated Cani Trail category",
       "status": "source-confirmed 2027",
-      "notes": "Sušice, Ostrov Santos; official 2027 event page confirms Cani Trail/Canicross and 12 km. Detailed propositions use the Cani Trail label.",
+      "notes": "Sušice, Ostrov Santos; the official course page lists the dedicated Cani Trail at 6.2 km.",
       "primarySource": "https://www.horskypulmaraton.cz/",
-      "secondarySource": "https://www.horskypulmaraton.cz/propozice/",
+      "secondarySource": "https://www.horskypulmaraton.cz/trate/",
       "origin": "CZ sweep 2026-09-15"
     },
     {
