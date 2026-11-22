@@ -93,6 +93,23 @@ DESCRIPTION:Kategorie: ski jöring / sledge\nDistanz: category-dependent\;
 URL:https://www.mushing.cz/race-proposition/default/1391
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-01-09-isar-trail-challenge-2027-deae2f@sandsturm.com
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:Isar Trail Challenge 2027
+LOCATION:Germany
+DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanzen: 0.5 
+ km / 2 km / 4 km / 8 km\nHund: dedicated canicross\, bikejoring and scoo
+ ter races\; beginner trail and adventure walk\nStatus: registration open
+ \nFreising-Lerchenfeld\, 10:00–15:00. Organiser: abenteuer.sport.hund (S
+ arah Abs). Canicross 2/4/8 km\; scooter and bikejoring 2/4 km\; Beginner
+  Trail 500 m. Separate Adventure Walk with stations. Benefit for Tierhei
+ m Freising.
+URL:https://www.abenteuersporthund.com/event-details/isar-trail-challenge
+ -2027
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-01-09-yorkshire-trail-runs-harewood-house-054718@sandsturm.com
 DTSTAMP:20260110T000000Z
 DTSTART;VALUE=DATE:20270109

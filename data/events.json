@@ -4,7 +4,7 @@
     "description": "Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.",
     "generatedAt": "2026-01-10T00:00:00Z",
     "source": "data/Canitrail_Masterkalender_2026_2027.csv",
-    "count": 439,
+    "count": 440,
     "categories": [
       "bike jöring",
       "canicross",
@@ -5724,6 +5724,31 @@
       "secondarySource": "https://www.mushing.cz/race-proposition/default/1392",
       "origin": "European federation six-sweep review 2026-10-16",
       "distanceText": "category-dependent; sprint A sled 5.6; mid 32"
+    },
+    {
+      "id": "2027-01-09-isar-trail-challenge-2027-deae2f",
+      "date": "2027-01-09",
+      "dateEnd": null,
+      "country": "Germany",
+      "event": "Isar Trail Challenge 2027",
+      "category": [
+        "canicross",
+        "bike jöring",
+        "scooter"
+      ],
+      "distancesKm": [
+        0.5,
+        2,
+        4,
+        8
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated canicross, bikejoring and scooter races; beginner trail and adventure walk",
+      "status": "registration open",
+      "notes": "Freising-Lerchenfeld, 10:00–15:00. Organiser: abenteuer.sport.hund (Sarah Abs). Canicross 2/4/8 km; scooter and bikejoring 2/4 km; Beginner Trail 500 m. Separate Adventure Walk with stations. Benefit for Tierheim Freising.",
+      "primarySource": "https://www.abenteuersporthund.com/event-details/isar-trail-challenge-2027",
+      "secondarySource": null,
+      "origin": "web verification 2026-11-22"
     },
     {
       "id": "2027-01-09-yorkshire-trail-runs-harewood-house-054718",
