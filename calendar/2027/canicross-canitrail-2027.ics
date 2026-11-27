@@ -361,6 +361,22 @@ DESCRIPTION:Kategorie: canicross / bike jöring / scooter\nDistanz: not pu
 URL:https://www.danskcanicross.dk/kalender
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-01-23-hetzner-yeti-trail-dog-run-43589c@sandsturm.com
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Hetzner Yeti-Trail – Dog Run
+LOCATION:Germany
+DESCRIPTION:Kategorie: dogs-trail\nDistanzen: 16 km / 26 km\nHund: dedica
+ ted Dog Run\nStatus: source-confirmed 2027\nBrombachSeeZeit Resort Plein
+ feld\, Sportpark 30. Organizer: SEENLAND EVENTS (Michael Snehotta). Prel
+ iminary starts: 11:00 long and 11:30 short. Dog Run classes list 16/26 k
+ m\; the provisional schedule lists 18 km for the short course and the ge
+ neral announcement lists approximately 30 km for the long course. Final 
+ distances pending.\nWeitere Quelle: https://yeti-trail.de/zeitplan/
+URL:https://yeti-trail.de/aussschreibung/
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-01-23-opky-80-v-valjakkohiihdon-sm-2027-a5a118@sandsturm.com
 DTSTAMP:20260110T000000Z
 DTSTART;VALUE=DATE:20270123

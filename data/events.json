@@ -4,7 +4,7 @@
     "description": "Canicross- und Canitrail-Veranstaltungen mit Schwerpunkt Europa.",
     "generatedAt": "2026-01-10T00:00:00Z",
     "source": "data/Canitrail_Masterkalender_2026_2027.csv",
-    "count": 440,
+    "count": 441,
     "categories": [
       "bike jöring",
       "canicross",
@@ -6122,6 +6122,27 @@
       "secondarySource": null,
       "origin": "Europe gap large sweep 2026-09-14",
       "distanceText": "not published"
+    },
+    {
+      "id": "2027-01-23-hetzner-yeti-trail-dog-run-43589c",
+      "date": "2027-01-23",
+      "dateEnd": null,
+      "country": "Germany",
+      "event": "Hetzner Yeti-Trail – Dog Run",
+      "category": [
+        "dogs-trail"
+      ],
+      "distancesKm": [
+        16,
+        26
+      ],
+      "elevationM": [],
+      "dogAccess": "dedicated Dog Run",
+      "status": "source-confirmed 2027",
+      "notes": "BrombachSeeZeit Resort Pleinfeld, Sportpark 30. Organizer: SEENLAND EVENTS (Michael Snehotta). Preliminary starts: 11:00 long and 11:30 short. Dog Run classes list 16/26 km; the provisional schedule lists 18 km for the short course and the general announcement lists approximately 30 km for the long course. Final distances pending.",
+      "primarySource": "https://yeti-trail.de/aussschreibung/",
+      "secondarySource": "https://yeti-trail.de/zeitplan/",
+      "origin": "official organizer announcement"
     },
     {
       "id": "2027-01-23-opky-80-v-valjakkohiihdon-sm-2027-a5a118",
